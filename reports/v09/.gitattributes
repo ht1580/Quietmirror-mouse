@@ -1,0 +1,2 @@
+# Preserve exact evidence bytes: reports contain SHA256 links to each other.
+* -text

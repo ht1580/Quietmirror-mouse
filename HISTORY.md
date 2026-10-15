@@ -62,3 +62,8 @@ V0.7 是机械试按设计，不是实物验证完成的产品；旧版固定触
 主键恢复23 mm原宽并保持27 mm短长度，前沿框架退开；侧键前移3 mm并贴随侧壳曲面，底框局部收边。修正内部让位，并按静止、按压、转动和顺序装入进行检查。电子示意单独替换11个试按夹具，最终安装接口待设计。
 
 [当前说明](README.md) · [分件 STL/STEP](exports/v08/print/) · [打印 3MF](exports/v08/quietmirror_V0.8_PRINT_PLATE.3mf) · [机械 STEP](exports/v08/quietmirror_V0.8_MECHANICAL_ASSEMBLY.step) · [ATK 示意](exports/v08/quietmirror_V0.8_ATK_A1_PLUS_ESTIMATED.step) · [PAW3950 示意](exports/v08/quietmirror_V0.8_PAW3950_CUSTOM_ESTIMATED.step) · [所有视图](views/v08/) · [历史核对](reports/v08/history_preservation.json)。
+
+
+## V0.9 · PLA 三角骨架与光顺前端
+
+保留原前段、纵坡与23×27主键，后肩按最新反馈收窄；26mm冠、1.6mm薄上键、1.8mm三角筋。固定下裙、前脸封口及USB支撑，后部边界适配三角减重，实际孔数见本轮报告，功能开口例外。外部侧键带下降2.8mm，后侧内部机构另降0.8mm，滚轮轴14.3mm、1.3mm轴承耳径向壁和2.4mm转折支架。导出20件STL/STEP、FreeCAD和PLA3MF；保存几何、网格、机构及切片证据，未实物打印。旧版不覆盖。

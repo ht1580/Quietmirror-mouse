@@ -1,0 +1,10 @@
+{
+  "pass_check": true,
+  "base_commit": "c200308ceafff8805ebec9744344d4626b925dfa",
+  "modified_historical_files": [
+    "HISTORY.md",
+    "README.md"
+  ],
+  "scope": "Only current README and appended HISTORY may differ; every historically tracked CAD/model/view/report/config file is unchanged.",
+  "archived_readme_blob": "d340cdc31912ed6d3e85641d2d4eb677fa4568f0"
+}

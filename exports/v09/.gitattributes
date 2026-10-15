@@ -1,0 +1,3 @@
+# CAD exchange files are generated; review their source and rendered geometry.
+*.step -diff -text
+*.FCStd binary

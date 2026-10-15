@@ -1,0 +1,2025 @@
+{
+  "version": "0.9",
+  "units": "mm",
+  "source": "Saved final meshes and cached unperforated crown; independent checks do not invoke the geometry generator",
+  "source_metrics_sha256": "fbdb4d919f27dce56fadd6a88e54686940c5ffacd8f72604e9d05896825e72c7",
+  "triangular_profiles": {
+    "pass_check": true,
+    "holes": [
+      {
+        "id": "R01",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550405,
+        "rounded_area_mm2": 11.761864900693396,
+        "pass_check": true
+      },
+      {
+        "id": "R02",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550405,
+        "rounded_area_mm2": 11.761864900693396,
+        "pass_check": true
+      },
+      {
+        "id": "R03",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550421,
+        "rounded_area_mm2": 11.761864900693398,
+        "pass_check": true
+      },
+      {
+        "id": "R04",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550421,
+        "rounded_area_mm2": 11.761864900693398,
+        "pass_check": true
+      },
+      {
+        "id": "R05",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480116,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "R06",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480116,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "R07",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480105,
+        "rounded_area_mm2": 38.301657040654455,
+        "pass_check": true
+      },
+      {
+        "id": "R08",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480105,
+        "rounded_area_mm2": 38.301657040654455,
+        "pass_check": true
+      },
+      {
+        "id": "R09",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.210494561146408,
+        "rounded_area_mm2": 19.452996973679586,
+        "pass_check": true
+      },
+      {
+        "id": "R10",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.210494561146408,
+        "rounded_area_mm2": 19.452996973679586,
+        "pass_check": true
+      },
+      {
+        "id": "R11",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 26.00955530091368,
+        "rounded_area_mm2": 25.377232326767068,
+        "pass_check": true
+      },
+      {
+        "id": "R12",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R13",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R14",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 26.00955530091368,
+        "rounded_area_mm2": 25.377232326767068,
+        "pass_check": true
+      },
+      {
+        "id": "R15",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R16",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R17",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550378,
+        "rounded_area_mm2": 11.761864900693343,
+        "pass_check": true
+      },
+      {
+        "id": "R18",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550378,
+        "rounded_area_mm2": 11.761864900693343,
+        "pass_check": true
+      },
+      {
+        "id": "R19",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.082827862325832,
+        "rounded_area_mm2": 9.241765749256516,
+        "pass_check": true
+      },
+      {
+        "id": "R20",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.082827862325832,
+        "rounded_area_mm2": 9.241765749256516,
+        "pass_check": true
+      },
+      {
+        "id": "R21",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.611943013907162,
+        "rounded_area_mm2": 9.934717543427094,
+        "pass_check": true
+      },
+      {
+        "id": "R22",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.611943013907162,
+        "rounded_area_mm2": 9.934717543427094,
+        "pass_check": true
+      },
+      {
+        "id": "B01",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B02",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B03",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555041,
+        "rounded_area_mm2": 11.761864900693388,
+        "pass_check": true
+      },
+      {
+        "id": "B04",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555041,
+        "rounded_area_mm2": 11.761864900693388,
+        "pass_check": true
+      },
+      {
+        "id": "B05",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550412,
+        "rounded_area_mm2": 11.76186490069339,
+        "pass_check": true
+      },
+      {
+        "id": "B06",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550412,
+        "rounded_area_mm2": 11.76186490069339,
+        "pass_check": true
+      },
+      {
+        "id": "B07",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065449,
+        "pass_check": true
+      },
+      {
+        "id": "B08",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065449,
+        "pass_check": true
+      },
+      {
+        "id": "B09",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B10",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480113,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B11",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480113,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B12",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B13",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065448,
+        "pass_check": true
+      },
+      {
+        "id": "B14",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.30165704065452,
+        "pass_check": true
+      },
+      {
+        "id": "B15",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.30165704065452,
+        "pass_check": true
+      },
+      {
+        "id": "B16",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065448,
+        "pass_check": true
+      },
+      {
+        "id": "B17",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B18",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B19",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555042,
+        "rounded_area_mm2": 11.761864900693407,
+        "pass_check": true
+      },
+      {
+        "id": "B20",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555042,
+        "rounded_area_mm2": 11.761864900693407,
+        "pass_check": true
+      },
+      {
+        "id": "B21",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B22",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B23",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B24",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B25",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.784682985185444,
+        "rounded_area_mm2": 20.028752157172647,
+        "pass_check": true
+      },
+      {
+        "id": "B26",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.784682985185444,
+        "rounded_area_mm2": 20.028752157172647,
+        "pass_check": true
+      },
+      {
+        "id": "B27",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 24.85044018002358,
+        "rounded_area_mm2": 24.14045686465737,
+        "pass_check": true
+      },
+      {
+        "id": "B28",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 24.85044018002358,
+        "rounded_area_mm2": 24.14045686465737,
+        "pass_check": true
+      },
+      {
+        "id": "B29",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 8.81281201243304,
+        "rounded_area_mm2": 7.827694614899943,
+        "pass_check": true
+      },
+      {
+        "id": "B30",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 8.81281201243304,
+        "rounded_area_mm2": 7.827694614899943,
+        "pass_check": true
+      },
+      {
+        "id": "B31",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "B32",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "B33",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "B34",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      }
+    ],
+    "spacing": [
+      {
+        "zone": "roof",
+        "profile_count": 22,
+        "minimum_gap_mm": 1.7999999999999972,
+        "nearest_pair": [
+          "R01",
+          "R03"
+        ],
+        "required_gap_mm": 1.75,
+        "pass_check": true
+      },
+      {
+        "zone": "base",
+        "profile_count": 34,
+        "minimum_gap_mm": 1.799999999999997,
+        "nearest_pair": [
+          "B10",
+          "B14"
+        ],
+        "required_gap_mm": 1.75,
+        "pass_check": true
+      }
+    ],
+    "limits": "Metadata profiles describe cutters, not a count of final independent physical openings."
+  },
+  "base_actual_section": {
+    "pass_check": true,
+    "section_z_mm": 1.8,
+    "closed_section_loops": 37,
+    "holes": [
+      {
+        "id": "B01",
+        "expected_area_mm2": 38.301657040654504,
+        "actual_section_loop_area_mm2": 38.301657190464375,
+        "symmetric_difference_mm2": 2.089761383779934e-06,
+        "area_difference_limit_mm2": 1.1490497112196352,
+        "boundary_hausdorff_mm": 4.5457987721374634e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B02",
+        "expected_area_mm2": 38.301657040654504,
+        "actual_section_loop_area_mm2": 38.30165719046439,
+        "symmetric_difference_mm2": 2.0897613869036725e-06,
+        "area_difference_limit_mm2": 1.1490497112196352,
+        "boundary_hausdorff_mm": 4.5457987721374634e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B03",
+        "expected_area_mm2": 11.761864900693388,
+        "actual_section_loop_area_mm2": 11.761864450571993,
+        "symmetric_difference_mm2": 1.0062328313568698e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 2.6719474615099623e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B04",
+        "expected_area_mm2": 11.761864900693388,
+        "actual_section_loop_area_mm2": 11.761864450571988,
+        "symmetric_difference_mm2": 1.0062328314503257e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 2.6719474615099623e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B05",
+        "expected_area_mm2": 11.76186490069339,
+        "actual_section_loop_area_mm2": 11.76186484942258,
+        "symmetric_difference_mm2": 1.3997496233739005e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 8.823234144497793e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B06",
+        "expected_area_mm2": 11.76186490069339,
+        "actual_section_loop_area_mm2": 11.761864849422583,
+        "symmetric_difference_mm2": 1.3997496234825653e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 8.823234144497793e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B07",
+        "expected_area_mm2": 38.30165704065449,
+        "actual_section_loop_area_mm2": 38.30165943050771,
+        "symmetric_difference_mm2": 7.26311555643334e-06,
+        "area_difference_limit_mm2": 1.1490497112196347,
+        "boundary_hausdorff_mm": 1.0053644667869595e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B08",
+        "expected_area_mm2": 38.30165704065449,
+        "actual_section_loop_area_mm2": 38.30165943050769,
+        "symmetric_difference_mm2": 7.263115554153258e-06,
+        "area_difference_limit_mm2": 1.1490497112196347,
+        "boundary_hausdorff_mm": 1.0053644667869595e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B09",
+        "expected_area_mm2": 38.301657040654504,
+        "actual_section_loop_area_mm2": 38.30164799605335,
+        "symmetric_difference_mm2": 1.0289990535627619e-05,
+        "area_difference_limit_mm2": 1.1490497112196352,
+        "boundary_hausdorff_mm": 1.055467665102536e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B10",
+        "expected_area_mm2": 38.30165704065453,
+        "actual_section_loop_area_mm2": 38.30164807629786,
+        "symmetric_difference_mm2": 9.719623156799948e-06,
+        "area_difference_limit_mm2": 1.1490497112196358,
+        "boundary_hausdorff_mm": 7.160888159763505e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B11",
+        "expected_area_mm2": 38.30165704065453,
+        "actual_section_loop_area_mm2": 38.30164807629785,
+        "symmetric_difference_mm2": 9.71962315722265e-06,
+        "area_difference_limit_mm2": 1.1490497112196358,
+        "boundary_hausdorff_mm": 7.160888159763505e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B12",
+        "expected_area_mm2": 38.301657040654504,
+        "actual_section_loop_area_mm2": 38.30164799605336,
+        "symmetric_difference_mm2": 1.028999053778644e-05,
+        "area_difference_limit_mm2": 1.1490497112196352,
+        "boundary_hausdorff_mm": 1.055467665102536e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B13",
+        "expected_area_mm2": 38.30165704065448,
+        "actual_section_loop_area_mm2": 38.301648095433855,
+        "symmetric_difference_mm2": 1.0085867752666427e-05,
+        "area_difference_limit_mm2": 1.1490497112196345,
+        "boundary_hausdorff_mm": 1.0895391361264252e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B14",
+        "expected_area_mm2": 38.30165704065452,
+        "actual_section_loop_area_mm2": 38.3016481756781,
+        "symmetric_difference_mm2": 9.764713316529952e-06,
+        "area_difference_limit_mm2": 1.1490497112196356,
+        "boundary_hausdorff_mm": 9.2652927144857e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B15",
+        "expected_area_mm2": 38.30165704065452,
+        "actual_section_loop_area_mm2": 38.3016481756781,
+        "symmetric_difference_mm2": 9.764713318614869e-06,
+        "area_difference_limit_mm2": 1.1490497112196356,
+        "boundary_hausdorff_mm": 9.2652927144857e-07,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B16",
+        "expected_area_mm2": 38.30165704065448,
+        "actual_section_loop_area_mm2": 38.30164809543384,
+        "symmetric_difference_mm2": 1.008586775625862e-05,
+        "area_difference_limit_mm2": 1.1490497112196345,
+        "boundary_hausdorff_mm": 1.0895391361264252e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B17",
+        "expected_area_mm2": 38.30165704065453,
+        "actual_section_loop_area_mm2": 38.30166280934828,
+        "symmetric_difference_mm2": 2.265337124193696e-05,
+        "area_difference_limit_mm2": 1.1490497112196358,
+        "boundary_hausdorff_mm": 1.8224908468087523e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B18",
+        "expected_area_mm2": 38.30165704065453,
+        "actual_section_loop_area_mm2": 38.30166280934826,
+        "symmetric_difference_mm2": 2.2653371239210625e-05,
+        "area_difference_limit_mm2": 1.1490497112196358,
+        "boundary_hausdorff_mm": 1.8224908468087523e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B19",
+        "expected_area_mm2": 11.761864900693407,
+        "actual_section_loop_area_mm2": 11.76186767423536,
+        "symmetric_difference_mm2": 7.049783816281962e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 1.7608739995012002e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B20",
+        "expected_area_mm2": 11.761864900693407,
+        "actual_section_loop_area_mm2": 11.761867674235358,
+        "symmetric_difference_mm2": 7.04978381619598e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 1.7608739995012002e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B21",
+        "expected_area_mm2": 38.301657040654476,
+        "actual_section_loop_area_mm2": 38.301662547515676,
+        "symmetric_difference_mm2": 9.690269457231234e-06,
+        "area_difference_limit_mm2": 1.1490497112196343,
+        "boundary_hausdorff_mm": 1.7955980922100822e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B22",
+        "expected_area_mm2": 38.301657040654476,
+        "actual_section_loop_area_mm2": 38.30166254751563,
+        "symmetric_difference_mm2": 9.690269457761981e-06,
+        "area_difference_limit_mm2": 1.1490497112196343,
+        "boundary_hausdorff_mm": 1.7955980922100822e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B23",
+        "expected_area_mm2": 38.301657040654476,
+        "actual_section_loop_area_mm2": 38.301662547515654,
+        "symmetric_difference_mm2": 1.04035516102623e-05,
+        "area_difference_limit_mm2": 1.1490497112196343,
+        "boundary_hausdorff_mm": 1.930718392608191e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B24",
+        "expected_area_mm2": 38.301657040654476,
+        "actual_section_loop_area_mm2": 38.30166254751569,
+        "symmetric_difference_mm2": 1.0403551610452058e-05,
+        "area_difference_limit_mm2": 1.1490497112196343,
+        "boundary_hausdorff_mm": 1.930718392608191e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B25",
+        "expected_area_mm2": 20.028752157172647,
+        "actual_section_loop_area_mm2": 20.028761650057273,
+        "symmetric_difference_mm2": 1.1943216849779697e-05,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 3.023877344294447e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B26",
+        "expected_area_mm2": 20.028752157172647,
+        "actual_section_loop_area_mm2": 20.02876165005727,
+        "symmetric_difference_mm2": 1.1943216849976254e-05,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 3.023877344294447e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B27",
+        "expected_area_mm2": 24.14045686465737,
+        "actual_section_loop_area_mm2": 24.140444866076,
+        "symmetric_difference_mm2": 2.5431413066441943e-05,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 3.394976203647171e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B28",
+        "expected_area_mm2": 24.14045686465737,
+        "actual_section_loop_area_mm2": 24.14044486607599,
+        "symmetric_difference_mm2": 2.5431413056809657e-05,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 3.394976203647171e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B29",
+        "expected_area_mm2": 7.827694614899943,
+        "actual_section_loop_area_mm2": 7.827700211986678,
+        "symmetric_difference_mm2": 9.551603665804292e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 3.343702499059971e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B30",
+        "expected_area_mm2": 7.827694614899943,
+        "actual_section_loop_area_mm2": 7.827700211986679,
+        "symmetric_difference_mm2": 9.551603665844365e-06,
+        "area_difference_limit_mm2": 0.8,
+        "boundary_hausdorff_mm": 3.343702499059971e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B31",
+        "expected_area_mm2": 38.301657040654426,
+        "actual_section_loop_area_mm2": 38.30163596635974,
+        "symmetric_difference_mm2": 2.6464581892895026e-05,
+        "area_difference_limit_mm2": 1.1490497112196327,
+        "boundary_hausdorff_mm": 3.13493228260659e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B32",
+        "expected_area_mm2": 38.301657040654426,
+        "actual_section_loop_area_mm2": 38.30163596635977,
+        "symmetric_difference_mm2": 2.6464581874383172e-05,
+        "area_difference_limit_mm2": 1.1490497112196327,
+        "boundary_hausdorff_mm": 3.13493228260659e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B33",
+        "expected_area_mm2": 38.301657040654426,
+        "actual_section_loop_area_mm2": 38.30169044258219,
+        "symmetric_difference_mm2": 3.811060915659066e-05,
+        "area_difference_limit_mm2": 1.1490497112196327,
+        "boundary_hausdorff_mm": 3.6459619026066594e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      },
+      {
+        "id": "B34",
+        "expected_area_mm2": 38.301657040654426,
+        "actual_section_loop_area_mm2": 38.30169044258219,
+        "symmetric_difference_mm2": 3.8110609146411656e-05,
+        "area_difference_limit_mm2": 1.1490497112196327,
+        "boundary_hausdorff_mm": 3.6459619026066594e-06,
+        "boundary_limit_mm": 0.12,
+        "pass_check": true
+      }
+    ],
+    "method": "Smallest actual closed BODY mesh section loop containing each intended hole centre; full area and boundary comparison detects filled holes or merger with a neighbouring/function opening at this section.",
+    "limits": "Proves base aperture profiles only at Z1.8; does not claim all heights are identical or count all openings globally."
+  },
+  "roof_actual_apertures": {
+    "pass_check": true,
+    "holes": [
+      {
+        "id": "R01",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": null,
+        "maximum_rim_height_error_mm": 0.005291446480516271,
+        "pass_check": true
+      },
+      {
+        "id": "R02",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": null,
+        "maximum_rim_height_error_mm": 0.007525195738619317,
+        "pass_check": true
+      },
+      {
+        "id": "R03",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 20.114471213274317,
+        "maximum_rim_height_error_mm": 0.00540220652194634,
+        "pass_check": true
+      },
+      {
+        "id": "R04",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 20.114471213201327,
+        "maximum_rim_height_error_mm": 0.005402202582224902,
+        "pass_check": true
+      },
+      {
+        "id": "R05",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 21.408863064271202,
+        "maximum_rim_height_error_mm": 0.007825690047098988,
+        "pass_check": true
+      },
+      {
+        "id": "R06",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 21.408863064271202,
+        "maximum_rim_height_error_mm": 0.007889196738773308,
+        "pass_check": true
+      },
+      {
+        "id": "R07",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 20.777134463531418,
+        "maximum_rim_height_error_mm": 0.007616650049193652,
+        "pass_check": true
+      },
+      {
+        "id": "R08",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 20.780605483458817,
+        "maximum_rim_height_error_mm": 0.007616648828253858,
+        "pass_check": true
+      },
+      {
+        "id": "R09",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 17.558323479093826,
+        "maximum_rim_height_error_mm": 0.01106523375166546,
+        "pass_check": true
+      },
+      {
+        "id": "R10",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 17.553059111793004,
+        "maximum_rim_height_error_mm": 0.00821034776649654,
+        "pass_check": true
+      },
+      {
+        "id": "R11",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": null,
+        "maximum_rim_height_error_mm": 0.006024562698311087,
+        "pass_check": true
+      },
+      {
+        "id": "R12",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 15.167749548120415,
+        "maximum_rim_height_error_mm": 0.007323070286599176,
+        "pass_check": true
+      },
+      {
+        "id": "R13",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 15.166225693142668,
+        "maximum_rim_height_error_mm": 0.007610803454667803,
+        "pass_check": true
+      },
+      {
+        "id": "R14",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": null,
+        "maximum_rim_height_error_mm": 0.005108900111984838,
+        "pass_check": true
+      },
+      {
+        "id": "R15",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": null,
+        "maximum_rim_height_error_mm": 0.009310461891942623,
+        "pass_check": true
+      },
+      {
+        "id": "R16",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": null,
+        "maximum_rim_height_error_mm": 0.010942264703139415,
+        "pass_check": true
+      },
+      {
+        "id": "R17",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 12.165125148635134,
+        "maximum_rim_height_error_mm": 0.006757403132748863,
+        "pass_check": true
+      },
+      {
+        "id": "R18",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 12.164951944678783,
+        "maximum_rim_height_error_mm": 0.006734556169497807,
+        "pass_check": true
+      },
+      {
+        "id": "R19",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 8.170772325188757,
+        "maximum_rim_height_error_mm": 0.005670973389900524,
+        "pass_check": true
+      },
+      {
+        "id": "R20",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 8.170741823170914,
+        "maximum_rim_height_error_mm": 0.00567097476886147,
+        "pass_check": true
+      },
+      {
+        "id": "R21",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 3.1651779322642355,
+        "maximum_rim_height_error_mm": 0.004721431981636215,
+        "pass_check": true
+      },
+      {
+        "id": "R22",
+        "inside_samples": 4,
+        "inside_failures": 0,
+        "rim_samples": 12,
+        "rim_failures": 0,
+        "minimum_skin_removal_depth_mm": 3.1662158254117116,
+        "maximum_rim_height_error_mm": 0.0034716729736530283,
+        "pass_check": true
+      }
+    ],
+    "failed_samples": [],
+    "inside_depth_required_mm": 1.0,
+    "rim_height_tolerance_mm": 0.12,
+    "method": "Final BODY and cached mother-crown vertical rays: four internal probes plus twelve probes on a ring 0.35 mm outside every roof triangle.",
+    "limits": "Checks sampled skin openings and surrounding rim continuity. Finite ring probes cannot prove global hole independence, minimum web thickness at every location, or complete unobstructed sight through all internal mechanisms. Cutter-profile count is not reported as the actual independent aperture count."
+  },
+  "main_key_surface": {
+    "pass_check": true,
+    "parts": [
+      {
+        "part": "left_KEY",
+        "samples": 99,
+        "missing_samples": 0,
+        "maximum_height_error_mm": 0.01597761006073739,
+        "median_height_error_mm": 0.0054627526147186245,
+        "required_maximum_mm": 0.12,
+        "plan_size_mm": [
+          23,
+          27
+        ],
+        "sample_range_xd_mm": [
+          [
+            -25.0,
+            -4.0
+          ],
+          [
+            1.4000000000000004,
+            26.4
+          ]
+        ],
+        "pass_check": true
+      },
+      {
+        "part": "right_KEY",
+        "samples": 99,
+        "missing_samples": 0,
+        "maximum_height_error_mm": 0.017257333346531567,
+        "median_height_error_mm": 0.0047720507137540835,
+        "required_maximum_mm": 0.12,
+        "plan_size_mm": [
+          23,
+          27
+        ],
+        "sample_range_xd_mm": [
+          [
+            4.0,
+            25.0
+          ],
+          [
+            1.4000000000000004,
+            26.4
+          ]
+        ],
+        "pass_check": true
+      }
+    ],
+    "method": "Compare saved main-key topmost mesh hits with the saved unperforated mother crown on a 9 x 11 inset grid for each 23 x 27 mm touch face.",
+    "limits": "Proves sampled outer-height agreement and catches a raised plate. Does not prove physical click force, cap thickness or every boundary point."
+  },
+  "rear_crown_profile": {
+    "pass_check": true,
+    "samples": 177,
+    "x_mm": 0.0,
+    "distance_range_mm": [
+      45.0,
+      89.0
+    ],
+    "maximum_local_rise_mm": 0.0,
+    "maximum_hermite_height_error_mm": 0.015922163787930543,
+    "maximum_adjacent_slope_change": 0.0468432475581011,
+    "limits": {
+      "maximum_rise_mm": 0.015,
+      "maximum_height_error_mm": 0.07,
+      "maximum_adjacent_slope_change": 0.2
+    },
+    "sampled_profile": [
+      {
+        "d_mm": 45.0,
+        "outer_z_mm": 25.99268531803131,
+        "expected_z_mm": 25.992685131914193
+      },
+      {
+        "d_mm": 45.25,
+        "outer_z_mm": 25.984245533172285,
+        "expected_z_mm": 25.988537610699023
+      },
+      {
+        "d_mm": 45.5,
+        "outer_z_mm": 25.975805748351405,
+        "expected_z_mm": 25.983446772006246
+      },
+      {
+        "d_mm": 45.75,
+        "outer_z_mm": 25.967365963530526,
+        "expected_z_mm": 25.97740471793581
+      },
+      {
+        "d_mm": 46.0,
+        "outer_z_mm": 25.95892617870965,
+        "expected_z_mm": 25.970403550587655
+      },
+      {
+        "d_mm": 46.25,
+        "outer_z_mm": 25.95048639388877,
+        "expected_z_mm": 25.962435372061723
+      },
+      {
+        "d_mm": 46.5,
+        "outer_z_mm": 25.94204660906789,
+        "expected_z_mm": 25.95349228445796
+      },
+      {
+        "d_mm": 46.75,
+        "outer_z_mm": 25.933606824247015,
+        "expected_z_mm": 25.943566389876306
+      },
+      {
+        "d_mm": 47.0,
+        "outer_z_mm": 25.925167039426135,
+        "expected_z_mm": 25.932649790416697
+      },
+      {
+        "d_mm": 47.25,
+        "outer_z_mm": 25.916727254605256,
+        "expected_z_mm": 25.92073458817909
+      },
+      {
+        "d_mm": 47.5,
+        "outer_z_mm": 25.90828746978438,
+        "expected_z_mm": 25.907812885263414
+      },
+      {
+        "d_mm": 47.75,
+        "outer_z_mm": 25.892646836740667,
+        "expected_z_mm": 25.893876783769624
+      },
+      {
+        "d_mm": 48.0,
+        "outer_z_mm": 25.87639686723628,
+        "expected_z_mm": 25.878918385797647
+      },
+      {
+        "d_mm": 48.25,
+        "outer_z_mm": 25.860146897731898,
+        "expected_z_mm": 25.862929793447442
+      },
+      {
+        "d_mm": 48.5,
+        "outer_z_mm": 25.84389692822751,
+        "expected_z_mm": 25.845903108818938
+      },
+      {
+        "d_mm": 48.75,
+        "outer_z_mm": 25.827646958723125,
+        "expected_z_mm": 25.82783043401208
+      },
+      {
+        "d_mm": 49.0,
+        "outer_z_mm": 25.804299999798587,
+        "expected_z_mm": 25.808703871126816
+      },
+      {
+        "d_mm": 49.25,
+        "outer_z_mm": 25.78032231004499,
+        "expected_z_mm": 25.788515522263086
+      },
+      {
+        "d_mm": 49.5,
+        "outer_z_mm": 25.756344620291394,
+        "expected_z_mm": 25.767257489520837
+      },
+      {
+        "d_mm": 49.75,
+        "outer_z_mm": 25.732366930537797,
+        "expected_z_mm": 25.744921874999996
+      },
+      {
+        "d_mm": 50.0,
+        "outer_z_mm": 25.7083892407842,
+        "expected_z_mm": 25.72150078080053
+      },
+      {
+        "d_mm": 50.25,
+        "outer_z_mm": 25.684411551030603,
+        "expected_z_mm": 25.696986309022357
+      },
+      {
+        "d_mm": 50.5,
+        "outer_z_mm": 25.660433861277006,
+        "expected_z_mm": 25.671370561765432
+      },
+      {
+        "d_mm": 50.75,
+        "outer_z_mm": 25.63645617152341,
+        "expected_z_mm": 25.644645641129692
+      },
+      {
+        "d_mm": 51.0,
+        "outer_z_mm": 25.61247848176981,
+        "expected_z_mm": 25.61680364921509
+      },
+      {
+        "d_mm": 51.25,
+        "outer_z_mm": 25.588500792016216,
+        "expected_z_mm": 25.587836688121563
+      },
+      {
+        "d_mm": 51.5,
+        "outer_z_mm": 25.556216511690252,
+        "expected_z_mm": 25.557736859949042
+      },
+      {
+        "d_mm": 51.75,
+        "outer_z_mm": 25.523625339242543,
+        "expected_z_mm": 25.526496266797487
+      },
+      {
+        "d_mm": 52.0,
+        "outer_z_mm": 25.491034166794833,
+        "expected_z_mm": 25.49410701076683
+      },
+      {
+        "d_mm": 52.25,
+        "outer_z_mm": 25.458442994347124,
+        "expected_z_mm": 25.460561193957012
+      },
+      {
+        "d_mm": 52.5,
+        "outer_z_mm": 25.425851821936707,
+        "expected_z_mm": 25.425850918467987
+      },
+      {
+        "d_mm": 52.75,
+        "outer_z_mm": 25.387767664028495,
+        "expected_z_mm": 25.38996828639969
+      },
+      {
+        "d_mm": 53.0,
+        "outer_z_mm": 25.34968350615757,
+        "expected_z_mm": 25.35290539985206
+      },
+      {
+        "d_mm": 53.25,
+        "outer_z_mm": 25.311599348286656,
+        "expected_z_mm": 25.31465436092504
+      },
+      {
+        "d_mm": 53.5,
+        "outer_z_mm": 25.273515190415736,
+        "expected_z_mm": 25.27520727171859
+      },
+      {
+        "d_mm": 53.75,
+        "outer_z_mm": 25.235382934591936,
+        "expected_z_mm": 25.234556234332622
+      },
+      {
+        "d_mm": 54.0,
+        "outer_z_mm": 25.192279433663565,
+        "expected_z_mm": 25.1926933508671
+      },
+      {
+        "d_mm": 54.25,
+        "outer_z_mm": 25.149175932735197,
+        "expected_z_mm": 25.149610723421965
+      },
+      {
+        "d_mm": 54.5,
+        "outer_z_mm": 25.10305889907595,
+        "expected_z_mm": 25.105300454097144
+      },
+      {
+        "d_mm": 54.75,
+        "outer_z_mm": 25.054061434492485,
+        "expected_z_mm": 25.0597546449926
+      },
+      {
+        "d_mm": 55.0,
+        "outer_z_mm": 25.005063969909017,
+        "expected_z_mm": 25.012965398208273
+      },
+      {
+        "d_mm": 55.25,
+        "outer_z_mm": 24.956066505325545,
+        "expected_z_mm": 24.96492481584409
+      },
+      {
+        "d_mm": 55.5,
+        "outer_z_mm": 24.907069040742076,
+        "expected_z_mm": 24.915625
+      },
+      {
+        "d_mm": 55.75,
+        "outer_z_mm": 24.858071576158608,
+        "expected_z_mm": 24.86505805277595
+      },
+      {
+        "d_mm": 56.0,
+        "outer_z_mm": 24.80907411157514,
+        "expected_z_mm": 24.813216076271882
+      },
+      {
+        "d_mm": 56.25,
+        "outer_z_mm": 24.760072603961174,
+        "expected_z_mm": 24.760091172587742
+      },
+      {
+        "d_mm": 56.5,
+        "outer_z_mm": 24.70304747831772,
+        "expected_z_mm": 24.70567544382346
+      },
+      {
+        "d_mm": 56.75,
+        "outer_z_mm": 24.64602235267427,
+        "expected_z_mm": 24.649960992078984
+      },
+      {
+        "d_mm": 57.0,
+        "outer_z_mm": 24.58899722703082,
+        "expected_z_mm": 24.592939919454263
+      },
+      {
+        "d_mm": 57.25,
+        "outer_z_mm": 24.531972101387368,
+        "expected_z_mm": 24.53460432804923
+      },
+      {
+        "d_mm": 57.5,
+        "outer_z_mm": 24.47494697574392,
+        "expected_z_mm": 24.474946319963838
+      },
+      {
+        "d_mm": 57.75,
+        "outer_z_mm": 24.411258269142,
+        "expected_z_mm": 24.41395799729802
+      },
+      {
+        "d_mm": 58.0,
+        "outer_z_mm": 24.34756956254008,
+        "expected_z_mm": 24.351631462151722
+      },
+      {
+        "d_mm": 58.25,
+        "outer_z_mm": 24.283880855938158,
+        "expected_z_mm": 24.287958816624887
+      },
+      {
+        "d_mm": 58.5,
+        "outer_z_mm": 24.220192149336242,
+        "expected_z_mm": 24.222932162817457
+      },
+      {
+        "d_mm": 58.75,
+        "outer_z_mm": 24.156503442734323,
+        "expected_z_mm": 24.156543602829377
+      },
+      {
+        "d_mm": 59.0,
+        "outer_z_mm": 24.086033587865014,
+        "expected_z_mm": 24.088785238760583
+      },
+      {
+        "d_mm": 59.25,
+        "outer_z_mm": 24.015499178486973,
+        "expected_z_mm": 24.01964917271102
+      },
+      {
+        "d_mm": 59.5,
+        "outer_z_mm": 23.94496476910893,
+        "expected_z_mm": 23.949127506780638
+      },
+      {
+        "d_mm": 59.75,
+        "outer_z_mm": 23.874430359730887,
+        "expected_z_mm": 23.877212343069367
+      },
+      {
+        "d_mm": 60.0,
+        "outer_z_mm": 23.80389595035233,
+        "expected_z_mm": 23.803895783677156
+      },
+      {
+        "d_mm": 60.25,
+        "outer_z_mm": 23.726304841106035,
+        "expected_z_mm": 23.729169930703954
+      },
+      {
+        "d_mm": 60.5,
+        "outer_z_mm": 23.64871373186007,
+        "expected_z_mm": 23.65302688624969
+      },
+      {
+        "d_mm": 60.75,
+        "outer_z_mm": 23.571122622614105,
+        "expected_z_mm": 23.575458752414313
+      },
+      {
+        "d_mm": 61.0,
+        "outer_z_mm": 23.49353151336814,
+        "expected_z_mm": 23.49645763129777
+      },
+      {
+        "d_mm": 61.25,
+        "outer_z_mm": 23.415940404122175,
+        "expected_z_mm": 23.416015625
+      },
+      {
+        "d_mm": 61.5,
+        "outer_z_mm": 23.33123780903138,
+        "expected_z_mm": 23.334124835620944
+      },
+      {
+        "d_mm": 61.75,
+        "outer_z_mm": 23.246407520905514,
+        "expected_z_mm": 23.25077736526054
+      },
+      {
+        "d_mm": 62.0,
+        "outer_z_mm": 23.16157723277965,
+        "expected_z_mm": 23.16596531601874
+      },
+      {
+        "d_mm": 62.25,
+        "outer_z_mm": 23.076746944653785,
+        "expected_z_mm": 23.079680789995475
+      },
+      {
+        "d_mm": 62.5,
+        "outer_z_mm": 22.99191665652792,
+        "expected_z_mm": 22.991915889290702
+      },
+      {
+        "d_mm": 62.75,
+        "outer_z_mm": 22.898896535270882,
+        "expected_z_mm": 22.902662716004354
+      },
+      {
+        "d_mm": 63.0,
+        "outer_z_mm": 22.805876414014325,
+        "expected_z_mm": 22.81191337223638
+      },
+      {
+        "d_mm": 63.25,
+        "outer_z_mm": 22.712856292757774,
+        "expected_z_mm": 22.71965996008671
+      },
+      {
+        "d_mm": 63.5,
+        "outer_z_mm": 22.619836171501216,
+        "expected_z_mm": 22.6258945816553
+      },
+      {
+        "d_mm": 63.75,
+        "outer_z_mm": 22.526816050244665,
+        "expected_z_mm": 22.53060933904208
+      },
+      {
+        "d_mm": 64.0,
+        "outer_z_mm": 22.433795928988115,
+        "expected_z_mm": 22.433796334347
+      },
+      {
+        "d_mm": 64.25,
+        "outer_z_mm": 22.329160002600148,
+        "expected_z_mm": 22.335447669670007
+      },
+      {
+        "d_mm": 64.5,
+        "outer_z_mm": 22.224524074288553,
+        "expected_z_mm": 22.23555544711104
+      },
+      {
+        "d_mm": 64.75,
+        "outer_z_mm": 22.119888145976955,
+        "expected_z_mm": 22.134111768770033
+      },
+      {
+        "d_mm": 65.0,
+        "outer_z_mm": 22.015252217665356,
+        "expected_z_mm": 22.03110873674694
+      },
+      {
+        "d_mm": 65.25,
+        "outer_z_mm": 21.91061628935376,
+        "expected_z_mm": 21.926538453141692
+      },
+      {
+        "d_mm": 65.5,
+        "outer_z_mm": 21.805980361042163,
+        "expected_z_mm": 21.820393020054244
+      },
+      {
+        "d_mm": 65.75,
+        "outer_z_mm": 21.70134443273057,
+        "expected_z_mm": 21.71266453958453
+      },
+      {
+        "d_mm": 66.0,
+        "outer_z_mm": 21.59670850441897,
+        "expected_z_mm": 21.603345113832496
+      },
+      {
+        "d_mm": 66.25,
+        "outer_z_mm": 21.492072576107372,
+        "expected_z_mm": 21.492426844898088
+      },
+      {
+        "d_mm": 66.5,
+        "outer_z_mm": 21.376787683547263,
+        "expected_z_mm": 21.379901834881238
+      },
+      {
+        "d_mm": 66.75,
+        "outer_z_mm": 21.260984794192805,
+        "expected_z_mm": 21.265762185881893
+      },
+      {
+        "d_mm": 67.0,
+        "outer_z_mm": 21.14518190483835,
+        "expected_z_mm": 21.150000000000002
+      },
+      {
+        "d_mm": 67.25,
+        "outer_z_mm": 21.029379015483887,
+        "expected_z_mm": 21.0326073793355
+      },
+      {
+        "d_mm": 67.5,
+        "outer_z_mm": 20.913576126129428,
+        "expected_z_mm": 20.913576425988328
+      },
+      {
+        "d_mm": 67.75,
+        "outer_z_mm": 20.789547111513112,
+        "expected_z_mm": 20.792899242058436
+      },
+      {
+        "d_mm": 68.0,
+        "outer_z_mm": 20.665518096896793,
+        "expected_z_mm": 20.670567929645763
+      },
+      {
+        "d_mm": 68.25,
+        "outer_z_mm": 20.541489082280478,
+        "expected_z_mm": 20.54657459085025
+      },
+      {
+        "d_mm": 68.5,
+        "outer_z_mm": 20.41746006766416,
+        "expected_z_mm": 20.42091132777184
+      },
+      {
+        "d_mm": 68.75,
+        "outer_z_mm": 20.293431053047843,
+        "expected_z_mm": 20.29357024251048
+      },
+      {
+        "d_mm": 69.0,
+        "outer_z_mm": 20.161329178290362,
+        "expected_z_mm": 20.16454343716611
+      },
+      {
+        "d_mm": 69.25,
+        "outer_z_mm": 20.02885191759953,
+        "expected_z_mm": 20.03382301383866
+      },
+      {
+        "d_mm": 69.5,
+        "outer_z_mm": 19.896374656908698,
+        "expected_z_mm": 19.901401074628094
+      },
+      {
+        "d_mm": 69.75,
+        "outer_z_mm": 19.76389739621786,
+        "expected_z_mm": 19.76726972163434
+      },
+      {
+        "d_mm": 70.0,
+        "outer_z_mm": 19.63142013552703,
+        "expected_z_mm": 19.631421056957343
+      },
+      {
+        "d_mm": 70.25,
+        "outer_z_mm": 19.489150379121618,
+        "expected_z_mm": 19.493847182697053
+      },
+      {
+        "d_mm": 70.5,
+        "outer_z_mm": 19.346880622620002,
+        "expected_z_mm": 19.3545402009534
+      },
+      {
+        "d_mm": 70.75,
+        "outer_z_mm": 19.204610866118383,
+        "expected_z_mm": 19.21349221382633
+      },
+      {
+        "d_mm": 71.0,
+        "outer_z_mm": 19.062341109616767,
+        "expected_z_mm": 19.070695323415798
+      },
+      {
+        "d_mm": 71.25,
+        "outer_z_mm": 18.920071353115148,
+        "expected_z_mm": 18.926141631821732
+      },
+      {
+        "d_mm": 71.5,
+        "outer_z_mm": 18.777801596613532,
+        "expected_z_mm": 18.779823241144076
+      },
+      {
+        "d_mm": 71.75,
+        "outer_z_mm": 18.62864792532787,
+        "expected_z_mm": 18.631732253482777
+      },
+      {
+        "d_mm": 72.0,
+        "outer_z_mm": 18.475220620137293,
+        "expected_z_mm": 18.48186077093778
+      },
+      {
+        "d_mm": 72.25,
+        "outer_z_mm": 18.32179331494672,
+        "expected_z_mm": 18.330200895609025
+      },
+      {
+        "d_mm": 72.5,
+        "outer_z_mm": 18.16836600975614,
+        "expected_z_mm": 18.176744729596454
+      },
+      {
+        "d_mm": 72.75,
+        "outer_z_mm": 18.01493870456557,
+        "expected_z_mm": 18.021484375
+      },
+      {
+        "d_mm": 73.0,
+        "outer_z_mm": 17.861511399374994,
+        "expected_z_mm": 17.864411933919616
+      },
+      {
+        "d_mm": 73.25,
+        "outer_z_mm": 17.702855915343534,
+        "expected_z_mm": 17.705519508455247
+      },
+      {
+        "d_mm": 73.5,
+        "outer_z_mm": 17.536969194043436,
+        "expected_z_mm": 17.54479920070683
+      },
+      {
+        "d_mm": 73.75,
+        "outer_z_mm": 17.371082472743336,
+        "expected_z_mm": 17.382243112774308
+      },
+      {
+        "d_mm": 74.0,
+        "outer_z_mm": 17.205195751443238,
+        "expected_z_mm": 17.217843346757622
+      },
+      {
+        "d_mm": 74.25,
+        "outer_z_mm": 17.03930903014314,
+        "expected_z_mm": 17.051592004756717
+      },
+      {
+        "d_mm": 74.5,
+        "outer_z_mm": 16.873422308843043,
+        "expected_z_mm": 16.88348118887154
+      },
+      {
+        "d_mm": 74.75,
+        "outer_z_mm": 16.707535587542946,
+        "expected_z_mm": 16.713503001202024
+      },
+      {
+        "d_mm": 75.0,
+        "outer_z_mm": 16.54164886387456,
+        "expected_z_mm": 16.541649543848113
+      },
+      {
+        "d_mm": 75.25,
+        "outer_z_mm": 16.36405132831665,
+        "expected_z_mm": 16.367912918909756
+      },
+      {
+        "d_mm": 75.5,
+        "outer_z_mm": 16.1864537910794,
+        "expected_z_mm": 16.19228522848689
+      },
+      {
+        "d_mm": 75.75,
+        "outer_z_mm": 16.008856253842154,
+        "expected_z_mm": 16.014758574679462
+      },
+      {
+        "d_mm": 76.0,
+        "outer_z_mm": 15.831258716604907,
+        "expected_z_mm": 15.835325059587408
+      },
+      {
+        "d_mm": 76.25,
+        "outer_z_mm": 15.653661179367667,
+        "expected_z_mm": 15.653976785310675
+      },
+      {
+        "d_mm": 76.5,
+        "outer_z_mm": 15.46717821935649,
+        "expected_z_mm": 15.470705853949207
+      },
+      {
+        "d_mm": 76.75,
+        "outer_z_mm": 15.279942895505911,
+        "expected_z_mm": 15.285504367602938
+      },
+      {
+        "d_mm": 77.0,
+        "outer_z_mm": 15.092707571655335,
+        "expected_z_mm": 15.098364428371825
+      },
+      {
+        "d_mm": 77.25,
+        "outer_z_mm": 14.905472247804756,
+        "expected_z_mm": 14.909278138355798
+      },
+      {
+        "d_mm": 77.5,
+        "outer_z_mm": 14.718236922432865,
+        "expected_z_mm": 14.718237599654802
+      },
+      {
+        "d_mm": 77.75,
+        "outer_z_mm": 14.521235221508949,
+        "expected_z_mm": 14.525234914368781
+      },
+      {
+        "d_mm": 78.0,
+        "outer_z_mm": 14.32423351980012,
+        "expected_z_mm": 14.330262184597682
+      },
+      {
+        "d_mm": 78.25,
+        "outer_z_mm": 14.1272318180913,
+        "expected_z_mm": 14.133311512441441
+      },
+      {
+        "d_mm": 78.5,
+        "outer_z_mm": 13.930230116382475,
+        "expected_z_mm": 13.934374999999998
+      },
+      {
+        "d_mm": 78.75,
+        "outer_z_mm": 13.73322841467365,
+        "expected_z_mm": 13.733444749373303
+      },
+      {
+        "d_mm": 79.0,
+        "outer_z_mm": 13.530087227101074,
+        "expected_z_mm": 13.530512862661293
+      },
+      {
+        "d_mm": 79.25,
+        "outer_z_mm": 13.325186906589725,
+        "expected_z_mm": 13.32557144196392
+      },
+      {
+        "d_mm": 79.5,
+        "outer_z_mm": 13.116608693893522,
+        "expected_z_mm": 13.118612589381115
+      },
+      {
+        "d_mm": 79.75,
+        "outer_z_mm": 12.908030481197315,
+        "expected_z_mm": 12.909628407012821
+      },
+      {
+        "d_mm": 80.0,
+        "outer_z_mm": 12.698160097787522,
+        "expected_z_mm": 12.698610996958983
+      },
+      {
+        "d_mm": 80.25,
+        "outer_z_mm": 12.483671520777655,
+        "expected_z_mm": 12.485552461319555
+      },
+      {
+        "d_mm": 80.5,
+        "outer_z_mm": 12.269182943767795,
+        "expected_z_mm": 12.270444902194463
+      },
+      {
+        "d_mm": 80.75,
+        "outer_z_mm": 12.052960435985398,
+        "expected_z_mm": 12.053280421683654
+      },
+      {
+        "d_mm": 81.0,
+        "outer_z_mm": 11.832638445879603,
+        "expected_z_mm": 11.83405112188707
+      },
+      {
+        "d_mm": 81.25,
+        "outer_z_mm": 11.6123164557738,
+        "expected_z_mm": 11.612749104904658
+      },
+      {
+        "d_mm": 81.5,
+        "outer_z_mm": 11.38798522673946,
+        "expected_z_mm": 11.389366472836361
+      },
+      {
+        "d_mm": 81.75,
+        "outer_z_mm": 11.16268314788421,
+        "expected_z_mm": 11.163895327782118
+      },
+      {
+        "d_mm": 82.0,
+        "outer_z_mm": 10.935729351487971,
+        "expected_z_mm": 10.936327771841867
+      },
+      {
+        "d_mm": 82.25,
+        "outer_z_mm": 10.70527314632254,
+        "expected_z_mm": 10.706655907115557
+      },
+      {
+        "d_mm": 82.5,
+        "outer_z_mm": 10.474816941157101,
+        "expected_z_mm": 10.47487183570313
+      },
+      {
+        "d_mm": 82.75,
+        "outer_z_mm": 10.238981286485114,
+        "expected_z_mm": 10.240967659704532
+      },
+      {
+        "d_mm": 83.0,
+        "outer_z_mm": 10.002123040154913,
+        "expected_z_mm": 10.004935481219693
+      },
+      {
+        "d_mm": 83.25,
+        "outer_z_mm": 9.765264793824706,
+        "expected_z_mm": 9.766767402348567
+      },
+      {
+        "d_mm": 83.5,
+        "outer_z_mm": 9.52564752221788,
+        "expected_z_mm": 9.52645552519109
+      },
+      {
+        "d_mm": 83.75,
+        "outer_z_mm": 9.283568525165016,
+        "expected_z_mm": 9.283991951847213
+      },
+      {
+        "d_mm": 84.0,
+        "outer_z_mm": 9.035396724121078,
+        "expected_z_mm": 9.039368784416865
+      },
+      {
+        "d_mm": 84.25,
+        "outer_z_mm": 8.786327950042718,
+        "expected_z_mm": 8.792578124999999
+      },
+      {
+        "d_mm": 84.5,
+        "outer_z_mm": 8.537259175964344,
+        "expected_z_mm": 8.543612075696554
+      },
+      {
+        "d_mm": 84.75,
+        "outer_z_mm": 8.288190401885984,
+        "expected_z_mm": 8.292462738606474
+      },
+      {
+        "d_mm": 85.0,
+        "outer_z_mm": 8.039121627005507,
+        "expected_z_mm": 8.039122215829705
+      },
+      {
+        "d_mm": 85.25,
+        "outer_z_mm": 7.780263782112058,
+        "expected_z_mm": 7.78358260946618
+      },
+      {
+        "d_mm": 85.5,
+        "outer_z_mm": 7.521405935840221,
+        "expected_z_mm": 7.525836021615846
+      },
+      {
+        "d_mm": 85.75,
+        "outer_z_mm": 7.262548089568398,
+        "expected_z_mm": 7.2658745543786445
+      },
+      {
+        "d_mm": 86.0,
+        "outer_z_mm": 7.003690242111112,
+        "expected_z_mm": 7.003690309854526
+      },
+      {
+        "d_mm": 86.25,
+        "outer_z_mm": 6.737928651867719,
+        "expected_z_mm": 6.739275390143421
+      },
+      {
+        "d_mm": 86.5,
+        "outer_z_mm": 6.472167060968104,
+        "expected_z_mm": 6.472621897345278
+      },
+      {
+        "d_mm": 86.75,
+        "outer_z_mm": 6.2026305879235935,
+        "expected_z_mm": 6.203721933560036
+      },
+      {
+        "d_mm": 87.0,
+        "outer_z_mm": 5.932174854937379,
+        "expected_z_mm": 5.932567600887646
+      },
+      {
+        "d_mm": 87.25,
+        "outer_z_mm": 5.656841422572164,
+        "expected_z_mm": 5.659151001428045
+      },
+      {
+        "d_mm": 87.5,
+        "outer_z_mm": 5.379643695522958,
+        "expected_z_mm": 5.383464237281171
+      },
+      {
+        "d_mm": 87.75,
+        "outer_z_mm": 5.102445968473759,
+        "expected_z_mm": 5.105499410546971
+      },
+      {
+        "d_mm": 88.0,
+        "outer_z_mm": 4.8252482410934405,
+        "expected_z_mm": 4.825248623325386
+      },
+      {
+        "d_mm": 88.25,
+        "outer_z_mm": 4.5392766592377,
+        "expected_z_mm": 4.542703977716362
+      },
+      {
+        "d_mm": 88.5,
+        "outer_z_mm": 4.2533050765727936,
+        "expected_z_mm": 4.257857575819843
+      },
+      {
+        "d_mm": 88.75,
+        "outer_z_mm": 3.967333493907894,
+        "expected_z_mm": 3.970701519735761
+      },
+      {
+        "d_mm": 89.0,
+        "outer_z_mm": 3.677897363541092,
+        "expected_z_mm": 3.6812279115640676
+      }
+    ],
+    "method": "Actual saved unperforated crown centreline against the specified single-span Hermite rear; checks monotone descent and bounded local slope changes.",
+    "scope": "Crown centreline only, D45..89. No claim of mathematical C2 continuity of an STL tessellation or of every off-centre section."
+  },
+  "pass_check": true,
+  "verification_scope": "metadata plus actual base cross-sections, sampled roof rim/openings, sampled key heights and rear crown",
+  "limits": "No physical print, force, friction, strength or fatigue test. These checks do not certify a global minimum thickness or count final independent apertures from cutter metadata."
+}

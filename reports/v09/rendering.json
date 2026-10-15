@@ -1,0 +1,31 @@
+{
+  "engine": "VTK with verified Mesa llvmpipe software OpenGL3.3",
+  "offscreen": true,
+  "depth_buffered": true,
+  "source": "Delivered printable STL parts, same camera scales before/after",
+  "source_metrics_sha256": "fbdb4d919f27dce56fadd6a88e54686940c5ffacd8f72604e9d05896825e72c7",
+  "exploded_key_translations_xyz_mm": {
+    "left_KEY": [
+      -8.0,
+      4.0,
+      14.0
+    ],
+    "right_KEY": [
+      8.0,
+      4.0,
+      14.0
+    ]
+  },
+  "outputs": [
+    "01_isometric.png",
+    "02_top.png",
+    "03_left_side.png",
+    "04_bottom.png",
+    "05_right_side.png",
+    "06_front.png",
+    "07_before_after.png",
+    "08_front_roof_exploded.png",
+    "before_side.png",
+    "before_top.png"
+  ]
+}

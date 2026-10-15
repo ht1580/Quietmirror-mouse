@@ -1,0 +1,39 @@
+{
+  "version": "0.9",
+  "revision": "closed-front-thin-roof-reduced-rear",
+  "digital_tasks_complete": true,
+  "tasks": {
+    "E_drive_environment": "complete",
+    "fixed_closed_front_USB": "complete",
+    "thin_23x27_roof_keys": "complete",
+    "original_front_pitch": "complete",
+    "reduced_smooth_rear": "complete",
+    "boundary_triangular_lattice": "complete",
+    "20_printable_parts": "complete",
+    "STEP_STL_3MF": "complete",
+    "native_FreeCAD_reopen": "complete",
+    "digital_geometry_mechanism_QA": "complete",
+    "PLA_slice": "complete",
+    "previews_and_handoff": "complete"
+  },
+  "physical_print_fit_force_fatigue": "not_performed",
+  "electronics": "original mechanical prototype; not implemented by this task",
+  "publication": {
+    "repository": "https://github.com/ht1580/Quietmirror-mouse",
+    "visibility": "private",
+    "branch": "main",
+    "release_tag": "v0.9-pla"
+  },
+  "upstream": {
+    "repository": "https://github.com/Quietmirror/github",
+    "base_commit": "c200308ceafff8805ebec9744344d4626b925dfa"
+  },
+  "dimensions_xyz_mm": [
+    58.696297446912354,
+    90.09401043350616,
+    26.001911030916844
+  ],
+  "roof_triangular_profiles": 22,
+  "base_triangular_profiles": 34,
+  "cad_metrics_sha256": "fbdb4d919f27dce56fadd6a88e54686940c5ffacd8f72604e9d05896825e72c7"
+}

@@ -1,0 +1,487 @@
+{
+  "version": "0.9",
+  "units": "mm",
+  "source": "Saved final meshes and cached unperforated crown; independent checks do not invoke the geometry generator",
+  "source_metrics_sha256": "fbdb4d919f27dce56fadd6a88e54686940c5ffacd8f72604e9d05896825e72c7",
+  "triangular_profiles": {
+    "pass_check": true,
+    "holes": [
+      {
+        "id": "R01",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550405,
+        "rounded_area_mm2": 11.761864900693396,
+        "pass_check": true
+      },
+      {
+        "id": "R02",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550405,
+        "rounded_area_mm2": 11.761864900693396,
+        "pass_check": true
+      },
+      {
+        "id": "R03",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550421,
+        "rounded_area_mm2": 11.761864900693398,
+        "pass_check": true
+      },
+      {
+        "id": "R04",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550421,
+        "rounded_area_mm2": 11.761864900693398,
+        "pass_check": true
+      },
+      {
+        "id": "R05",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480116,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "R06",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480116,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "R07",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480105,
+        "rounded_area_mm2": 38.301657040654455,
+        "pass_check": true
+      },
+      {
+        "id": "R08",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480105,
+        "rounded_area_mm2": 38.301657040654455,
+        "pass_check": true
+      },
+      {
+        "id": "R09",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.210494561146408,
+        "rounded_area_mm2": 19.452996973679586,
+        "pass_check": true
+      },
+      {
+        "id": "R10",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.210494561146408,
+        "rounded_area_mm2": 19.452996973679586,
+        "pass_check": true
+      },
+      {
+        "id": "R11",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 26.00955530091368,
+        "rounded_area_mm2": 25.377232326767068,
+        "pass_check": true
+      },
+      {
+        "id": "R12",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R13",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R14",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 26.00955530091368,
+        "rounded_area_mm2": 25.377232326767068,
+        "pass_check": true
+      },
+      {
+        "id": "R15",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R16",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "R17",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550378,
+        "rounded_area_mm2": 11.761864900693343,
+        "pass_check": true
+      },
+      {
+        "id": "R18",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550378,
+        "rounded_area_mm2": 11.761864900693343,
+        "pass_check": true
+      },
+      {
+        "id": "R19",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.082827862325832,
+        "rounded_area_mm2": 9.241765749256516,
+        "pass_check": true
+      },
+      {
+        "id": "R20",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.082827862325832,
+        "rounded_area_mm2": 9.241765749256516,
+        "pass_check": true
+      },
+      {
+        "id": "R21",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.611943013907162,
+        "rounded_area_mm2": 9.934717543427094,
+        "pass_check": true
+      },
+      {
+        "id": "R22",
+        "zone": "roof",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 10.611943013907162,
+        "rounded_area_mm2": 9.934717543427094,
+        "pass_check": true
+      },
+      {
+        "id": "B01",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B02",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B03",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555041,
+        "rounded_area_mm2": 11.761864900693388,
+        "pass_check": true
+      },
+      {
+        "id": "B04",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555041,
+        "rounded_area_mm2": 11.761864900693388,
+        "pass_check": true
+      },
+      {
+        "id": "B05",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550412,
+        "rounded_area_mm2": 11.76186490069339,
+        "pass_check": true
+      },
+      {
+        "id": "B06",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.777742505550412,
+        "rounded_area_mm2": 11.76186490069339,
+        "pass_check": true
+      },
+      {
+        "id": "B07",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065449,
+        "pass_check": true
+      },
+      {
+        "id": "B08",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065449,
+        "pass_check": true
+      },
+      {
+        "id": "B09",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B10",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480113,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B11",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480113,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B12",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.301657040654504,
+        "pass_check": true
+      },
+      {
+        "id": "B13",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065448,
+        "pass_check": true
+      },
+      {
+        "id": "B14",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.30165704065452,
+        "pass_check": true
+      },
+      {
+        "id": "B15",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801115,
+        "rounded_area_mm2": 38.30165704065452,
+        "pass_check": true
+      },
+      {
+        "id": "B16",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480111,
+        "rounded_area_mm2": 38.30165704065448,
+        "pass_check": true
+      },
+      {
+        "id": "B17",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B18",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480112,
+        "rounded_area_mm2": 38.30165704065453,
+        "pass_check": true
+      },
+      {
+        "id": "B19",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555042,
+        "rounded_area_mm2": 11.761864900693407,
+        "pass_check": true
+      },
+      {
+        "id": "B20",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 12.77774250555042,
+        "rounded_area_mm2": 11.761864900693407,
+        "pass_check": true
+      },
+      {
+        "id": "B21",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B22",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B23",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B24",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480107,
+        "rounded_area_mm2": 38.301657040654476,
+        "pass_check": true
+      },
+      {
+        "id": "B25",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.784682985185444,
+        "rounded_area_mm2": 20.028752157172647,
+        "pass_check": true
+      },
+      {
+        "id": "B26",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 20.784682985185444,
+        "rounded_area_mm2": 20.028752157172647,
+        "pass_check": true
+      },
+      {
+        "id": "B27",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 24.85044018002358,
+        "rounded_area_mm2": 24.14045686465737,
+        "pass_check": true
+      },
+      {
+        "id": "B28",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 24.85044018002358,
+        "rounded_area_mm2": 24.14045686465737,
+        "pass_check": true
+      },
+      {
+        "id": "B29",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 8.81281201243304,
+        "rounded_area_mm2": 7.827694614899943,
+        "pass_check": true
+      },
+      {
+        "id": "B30",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 8.81281201243304,
+        "rounded_area_mm2": 7.827694614899943,
+        "pass_check": true
+      },
+      {
+        "id": "B31",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "B32",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.933980014801044,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "B33",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      },
+      {
+        "id": "B34",
+        "zone": "base",
+        "triangle_vertices": 3,
+        "triangle_area_mm2": 38.93398001480104,
+        "rounded_area_mm2": 38.301657040654426,
+        "pass_check": true
+      }
+    ],
+    "spacing": [
+      {
+        "zone": "roof",
+        "profile_count": 22,
+        "minimum_gap_mm": 1.7999999999999972,
+        "nearest_pair": [
+          "R01",
+          "R03"
+        ],
+        "required_gap_mm": 1.75,
+        "pass_check": true
+      },
+      {
+        "zone": "base",
+        "profile_count": 34,
+        "minimum_gap_mm": 1.799999999999997,
+        "nearest_pair": [
+          "B10",
+          "B14"
+        ],
+        "required_gap_mm": 1.75,
+        "pass_check": true
+      }
+    ],
+    "limits": "Metadata profiles describe cutters, not a count of final independent physical openings."
+  },
+  "pass_check": true,
+  "verification_scope": "metadata only",
+  "limits": "No physical print, force, friction, strength or fatigue test. These checks do not certify a global minimum thickness or count final independent apertures from cutter metadata."
+}

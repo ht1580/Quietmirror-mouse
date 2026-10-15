@@ -1,0 +1,504 @@
+{
+  "version": "0.9",
+  "freecad_version": [
+    "1",
+    "1",
+    "4",
+    "20260928 (Git shallow)",
+    "Unknown",
+    "2026/09/28 13:46:34",
+    "(HEAD detached at 4fd3bf320)",
+    "4fd3bf320d9566a27e60069fc8387448aaa3a094"
+  ],
+  "headless": true,
+  "gui_visual_tested": false,
+  "document": "E:\\Projects\\Quietmirror\\github\\exports\\v09\\quietmirror_V0.9.FCStd",
+  "source_metrics": "E:\\Projects\\Quietmirror\\github\\reports\\v09\\cad_metrics.json",
+  "source_metrics_sha256": "fbdb4d919f27dce56fadd6a88e54686940c5ffacd8f72604e9d05896825e72c7",
+  "limitations": [
+    "Imported editable B-reps; CadQuery feature history is not reconstructed.",
+    "Named groups preserve assembly positions; no solved joints or constraints.",
+    "Colors are native serialized material metadata; GUI display was not opened.",
+    "This validates saved document geometry and metadata, not physical print fit."
+  ],
+  "native_gui_material_bindings": {
+    "BODY": "PreviewMaterials",
+    "left_KEY": "PreviewMaterials1",
+    "right_KEY": "PreviewMaterials2",
+    "thumb_front_KEY": "PreviewMaterials3",
+    "thumb_rear_KEY": "PreviewMaterials4",
+    "WHEEL": "PreviewMaterials5",
+    "AXLE": "PreviewMaterials6",
+    "AXLE_WASHER": "PreviewMaterials7",
+    "WHEEL_CARRIER": "PreviewMaterials8",
+    "DETENT_LEAF": "PreviewMaterials9",
+    "left_RETAINER": "PreviewMaterials10",
+    "left_TRAY": "PreviewMaterials11",
+    "right_RETAINER": "PreviewMaterials12",
+    "right_TRAY": "PreviewMaterials13",
+    "middle_RETAINER": "PreviewMaterials14",
+    "middle_TRAY": "PreviewMaterials15",
+    "thumb_front_RETAINER": "PreviewMaterials16",
+    "thumb_front_TRAY": "PreviewMaterials17",
+    "thumb_rear_RETAINER": "PreviewMaterials18",
+    "thumb_rear_TRAY": "PreviewMaterials19"
+  },
+  "parameter_metadata_valid": true,
+  "body_dimensions_xyz_mm": [
+    58.696297446912354,
+    90.09401043350616,
+    26.001911030916844
+  ],
+  "measured_dimensions_metadata_valid": true,
+  "printable_parts_expected": 20,
+  "printable_parts_reopened": 20,
+  "reopened_part_feature_names": [
+    "BODY",
+    "left_KEY",
+    "right_KEY",
+    "thumb_front_KEY",
+    "thumb_rear_KEY",
+    "WHEEL",
+    "AXLE",
+    "AXLE_WASHER",
+    "WHEEL_CARRIER",
+    "DETENT_LEAF",
+    "left_RETAINER",
+    "left_TRAY",
+    "right_RETAINER",
+    "right_TRAY",
+    "middle_RETAINER",
+    "middle_TRAY",
+    "thumb_front_RETAINER",
+    "thumb_front_TRAY",
+    "thumb_rear_RETAINER",
+    "thumb_rear_TRAY"
+  ],
+  "source_script_sha256": "acc80bbd8571afceb46c2972d7945b5518267b16754847ce316fd5f49dd5faad",
+  "parts": [
+    {
+      "name": "BODY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 1884,
+      "volume_mm3": 17333.704762433834,
+      "roundtrip_volume_error_mm3": 4.3655745685100555e-11,
+      "dimensions_xyz_mm": [
+        58.819370710862,
+        91.156642102228,
+        26.025081233288
+      ],
+      "source_step_sha256": "3754278cdfbd8734f4040f1b073bd3a469b4e9f3a1cf1380c270791e0a914a02",
+      "preview_color": [
+        0.3686274588108063,
+        0.529411792755127,
+        0.5686274766921997
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "left_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 38,
+      "volume_mm3": 1376.7489221094888,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        32.929771084277,
+        32.49477536779,
+        17.089290982957003
+      ],
+      "source_step_sha256": "1d54aca914fbfdc27d0073fc5f931e022071adc9b87a467e47c9f8da7d89c441",
+      "preview_color": [
+        0.7019608020782471,
+        0.7882353067398071,
+        0.7803921699523926
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "right_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 38,
+      "volume_mm3": 1376.8288186766135,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        32.929770941365,
+        32.49477536779,
+        17.089290982957003
+      ],
+      "source_step_sha256": "0b90114d3be26b8617a628183913a6e3bfc06f4d42beb5ad478d37cc40cf6a73",
+      "preview_color": [
+        0.7019608020782471,
+        0.7882353067398071,
+        0.7803921699523926
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "thumb_front_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 54,
+      "volume_mm3": 239.67229478646868,
+      "roundtrip_volume_error_mm3": 2.842170943040401e-14,
+      "dimensions_xyz_mm": [
+        8.134945858050003,
+        18.010461672869997,
+        13.423707783677
+      ],
+      "source_step_sha256": "1b8aa370b8d8b92ff3c396a878e2dceb493965d04abc0ae5e7c906240bef2c6b",
+      "preview_color": [
+        0.529411792755127,
+        0.658823549747467,
+        0.6784313917160034
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "thumb_rear_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 59,
+      "volume_mm3": 238.9625783816222,
+      "roundtrip_volume_error_mm3": 5.684341886080802e-14,
+      "dimensions_xyz_mm": [
+        9.302942660140001,
+        17.84755883623,
+        11.759150427956
+      ],
+      "source_step_sha256": "19297478d1995a24c5819d633e603f52035d584c38b31c7b11bcc0850d5b6e13",
+      "preview_color": [
+        0.529411792755127,
+        0.658823549747467,
+        0.6784313917160034
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "WHEEL",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 579,
+      "volume_mm3": 820.8289157804471,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        5.2,
+        15.000000000000423,
+        15.000000000000863
+      ],
+      "source_step_sha256": "495f469fc416ba1ab0d1b18d65d737a1a02f58db451e2e148c24d581e2b68a9f",
+      "preview_color": [
+        0.21960784494876862,
+        0.2705882489681244,
+        0.29019609093666077
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "AXLE",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 7,
+      "volume_mm3": 108.58600847867828,
+      "roundtrip_volume_error_mm3": 1.4210854715202004e-14,
+      "dimensions_xyz_mm": [
+        15.8,
+        3.799999999999999,
+        3.799999999999999
+      ],
+      "source_step_sha256": "a2e139136b6c26f8f184b9bef4119b971c21fce7cb7e23d4f0f1b69618287856",
+      "preview_color": [
+        0.21960784494876862,
+        0.2705882489681244,
+        0.29019609093666077
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "AXLE_WASHER",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 4,
+      "volume_mm3": 9.047786842338798,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        1.2000000000000002,
+        3.799999999999999,
+        3.799999999999999
+      ],
+      "source_step_sha256": "9db698b7247cbc5f3f2534bd1671537c6ebaba3a482aa48f8528ceb5f709cfd6",
+      "preview_color": [
+        0.21960784494876862,
+        0.2705882489681244,
+        0.29019609093666077
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "WHEEL_CARRIER",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 84,
+      "volume_mm3": 787.5415381277094,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        12.200000000000001,
+        26.4,
+        15.2
+      ],
+      "source_step_sha256": "53635849aa5d62344282ca866eaf638cc13d1ce15134b732436328893e47b7d3",
+      "preview_color": [
+        0.7215686440467834,
+        0.4901960790157318,
+        0.239215686917305
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "DETENT_LEAF",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 25,
+      "volume_mm3": 52.62737704801122,
+      "roundtrip_volume_error_mm3": 7.105427357601002e-15,
+      "dimensions_xyz_mm": [
+        6.0,
+        5.0,
+        8.0
+      ],
+      "source_step_sha256": "634fbb9b939248c8de0a44d6b9dfcb7d2c5ba1450f3fe8b3323817ea90c7e100",
+      "preview_color": [
+        0.7215686440467834,
+        0.4901960790157318,
+        0.239215686917305
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "left_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 12,
+      "volume_mm3": 131.47435713975088,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        8.0,
+        11.200000000000003,
+        1.6000000000023693
+      ],
+      "source_step_sha256": "45e5e814cd9aaedf94daeb0120dcf99786233add77078d10c6cfb5e44f56a862",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "left_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 80,
+      "volume_mm3": 312.3834582027018,
+      "roundtrip_volume_error_mm3": 1.1368683772161603e-13,
+      "dimensions_xyz_mm": [
+        17.6,
+        9.800000000000004,
+        4.900000000000001
+      ],
+      "source_step_sha256": "feaaaab28f10855d928394e84f5bb3da703e9823ee61e1d2b9b3ab690e9fc2db",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "right_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 12,
+      "volume_mm3": 131.47435713976486,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        8.0,
+        11.200000000000003,
+        1.5999999999999996
+      ],
+      "source_step_sha256": "67a036b45aa8bcb7b58f4d0afdcadd54a239acefe5f6b89f6ca76e7fd9236b91",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "right_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 80,
+      "volume_mm3": 312.3834582027019,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        17.6,
+        9.800000000000004,
+        4.900000000000001
+      ],
+      "source_step_sha256": "a25ff1124fc93a99fd3895c4cdfa40bcfdbbdf0aa097c2d28478a678b740a150",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "middle_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 12,
+      "volume_mm3": 131.4743571397649,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        8.0,
+        11.200000000000003,
+        1.5999999999999996
+      ],
+      "source_step_sha256": "776be28baa6521e439799822430fdf858d1afa778781baab910e8b60425c7365",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "middle_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 80,
+      "volume_mm3": 312.3834582027019,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        17.6,
+        9.8,
+        4.900000000000001
+      ],
+      "source_step_sha256": "730c68f91ab422e9f959e3a0721691227a39e159410f933d8d53b4b07ad0c723",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "thumb_front_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 12,
+      "volume_mm3": 88.46635713976478,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        1.6000000000000014,
+        11.200000000000003,
+        5.600000000000001
+      ],
+      "source_step_sha256": "497dd1797b0f168653d9e64e9fcb95d94822bd429b68a42faf87e8907ffdf0d2",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "thumb_front_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 80,
+      "volume_mm3": 312.38345820270183,
+      "roundtrip_volume_error_mm3": 5.684341886080802e-14,
+      "dimensions_xyz_mm": [
+        4.900000000000002,
+        9.8,
+        17.6
+      ],
+      "source_step_sha256": "eb08dad16ec876e894312b7cfc41c1c1f2176226bf2fd208bb949b62cf717d92",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "thumb_rear_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 12,
+      "volume_mm3": 88.46635713976471,
+      "roundtrip_volume_error_mm3": 0.0,
+      "dimensions_xyz_mm": [
+        1.6000000000000014,
+        11.200000000000003,
+        5.599999999999998
+      ],
+      "source_step_sha256": "5f35d650f8118ac09c89bbc49a32694c73ecc9eb3d47724fa70ad041ae5da036",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    },
+    {
+      "name": "thumb_rear_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "faces": 80,
+      "volume_mm3": 312.3834582027018,
+      "roundtrip_volume_error_mm3": 5.684341886080802e-14,
+      "dimensions_xyz_mm": [
+        4.900000000000004,
+        9.799999999999997,
+        17.6
+      ],
+      "source_step_sha256": "6bb3c61866954b5d480a6695b0f6456af14dbdb0509c730d8548cdff1a9b50b4",
+      "preview_color": [
+        0.6392157077789307,
+        0.6901960968971252,
+        0.7019608020782471
+      ],
+      "metadata_valid": true,
+      "passed": true
+    }
+  ],
+  "all_parts_valid_single_solid": true,
+  "passed": true,
+  "document_sha256": "42ae433ceb837b7dd722c484a06e11dd6e68f65c1f433f6fe3fdea601699cb2d",
+  "document_bytes": 4325376
+}

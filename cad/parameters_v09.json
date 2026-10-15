@@ -1,0 +1,317 @@
+{
+  "version": "0.9",
+  "units": "mm",
+  "length": 90.0,
+  "max_width": 62.0,
+  "height": 26,
+  "grip_width": 54.0,
+  "wall": 1.6,
+  "shell_floor_z": 1.0,
+  "key_outline_width": 0.65,
+  "rib_diameter": 2.8,
+  "base_rib_width": 1.8,
+  "base_rib_height": 1.6,
+  "foot_diameter": 8.8,
+  "foot_thickness": 2.4,
+  "skate_diameter_reference": 7.5,
+  "skate_thickness_estimate": 0.7,
+  "left_key": {
+    "x": -14.5,
+    "y": 13.9,
+    "width": 23,
+    "length": 27
+  },
+  "right_key": {
+    "x": 14.5,
+    "y": 13.9,
+    "width": 23,
+    "length": 27
+  },
+  "wheel": {
+    "x": 0.0,
+    "y": 17.0,
+    "height_offset": -5,
+    "diameter": 15.0,
+    "width": 5.2,
+    "opening_width": 12.8,
+    "opening_length": 19.4,
+    "axis_z": 14.3,
+    "carrier_install_opening_xy": [
+      14.2,
+      34
+    ],
+    "carrier_install_opening_d": 25
+  },
+  "side_buttons": [
+    {
+      "y": 39.5,
+      "z": 15.5,
+      "length": 12
+    },
+    {
+      "y": 53.5,
+      "z": 16.0,
+      "length": 12
+    }
+  ],
+  "sensor": {
+    "x": 0.0,
+    "y": 48.0,
+    "frame_z": 2.6,
+    "opening_width": 14.0,
+    "opening_length": 18.0
+  },
+  "shell_stations": [
+    [
+      0,
+      23,
+      12
+    ],
+    [
+      2,
+      27.5,
+      13
+    ],
+    [
+      8,
+      31,
+      16
+    ],
+    [
+      18,
+      29,
+      20.5
+    ],
+    [
+      30,
+      27.25,
+      25.5
+    ],
+    [
+      44,
+      27.15,
+      28
+    ],
+    [
+      60,
+      27.05,
+      26
+    ],
+    [
+      72,
+      24,
+      18
+    ],
+    [
+      83,
+      17,
+      8
+    ],
+    [
+      86,
+      14.5,
+      5.8
+    ],
+    [
+      88,
+      10.7,
+      4.4
+    ],
+    [
+      89.5,
+      5.5,
+      3.3
+    ],
+    [
+      90,
+      0.6,
+      2.5
+    ]
+  ],
+  "human_data": {
+    "wrist_to_middle_tip_approx": 230,
+    "thumb_to_pinky_spread_approx": 190,
+    "palm_width": null,
+    "phalange_lengths": null,
+    "actual_grip": null
+  },
+  "notes": "V0.9 corrected front: only 1.6 mm normal-thickness outer-face patches move; original lower skirt and closed nose remain fixed, USB aperture preserved. Same main-key 23x27 mm and longitudinal pitch; rear width reduced per latest marked request, grip/buttons protected. Boundary-adapted triangular lattice; physical PLA fit/strength untested.",
+  "side_profile_power": 4.0,
+  "rear_cavity_end": 84,
+  "side_interface": {
+    "opening_length": 12.0,
+    "opening_height": 6.6,
+    "opening_corner_radius": 1.7,
+    "cap_height": 5.4,
+    "cap_depth": 2.8,
+    "stem_length": 8.6,
+    "stem_height": 3.8,
+    "flange_length": 13.2,
+    "flange_height": 6.2,
+    "flange_thickness": 1.6,
+    "axial_gap": 0.3,
+    "reinforcement_length": 16.0,
+    "reinforcement_height": 10.6
+  },
+  "ventilation": {
+    "corner_radius": 0.5,
+    "minimum_planar_web": 1.8,
+    "perimeter_web": 2.0,
+    "front_d": 47.0,
+    "seed_rows": [
+      {
+        "d": 52.5,
+        "x": [
+          -18,
+          -6,
+          6,
+          18
+        ]
+      },
+      {
+        "d": 64,
+        "x": [
+          -13,
+          0,
+          13
+        ]
+      },
+      {
+        "d": 75,
+        "x": [
+          -18,
+          -6,
+          6,
+          18
+        ]
+      },
+      {
+        "d": 84,
+        "x": [
+          0
+        ]
+      }
+    ]
+  },
+  "wheel_roof_tie_z": 17.0,
+  "upper_width_reduction": 0,
+  "usb_port": {
+    "width": 13.4,
+    "height": 6.4,
+    "radius": 1.8,
+    "z": 7.1,
+    "status": "estimated connector and plug opening; centre line"
+  },
+  "power_switch": {
+    "d": 72,
+    "opening_x": 6,
+    "opening_d": 3,
+    "status": "estimated bottom centre aperture"
+  },
+  "mechanism": {
+    "stem_xy": [
+      5.6,
+      7.6
+    ],
+    "radial_clearance": 0.3,
+    "travel": 0.4,
+    "switch_example": "ALPS SKHHAKA010, 6 x 6 x 5 mm; mechanical test only",
+    "nominal_switch_travel": 0.25,
+    "calibration_required": true,
+    "switch_seat_clearance_per_side": 0.3,
+    "printed_axle_diameter": 3,
+    "wheel_bore_diameter": 3.5,
+    "bearing_bore_diameter": 3.4
+  },
+  "modules": {
+    "left": {
+      "origin": [
+        -14.5,
+        -24,
+        18
+      ]
+    },
+    "right": {
+      "origin": [
+        14.5,
+        -24,
+        18
+      ]
+    },
+    "middle": {
+      "origin": [
+        0,
+        -35,
+        19
+      ]
+    },
+    "thumb_front": {
+      "origin": [
+        -21.5,
+        -36.5,
+        14.5
+      ],
+      "side": true
+    },
+    "thumb_rear": {
+      "origin": [
+        -21.5,
+        -50.5,
+        15.1
+      ],
+      "side": true,
+      "side_entry_sweep_depth_mm": 35.0
+    }
+  },
+  "main_key_surface": {
+    "stations_d_z": [
+      [
+        -2,
+        14.2
+      ],
+      [
+        0.4,
+        15
+      ],
+      [
+        8,
+        18.3
+      ],
+      [
+        17,
+        22
+      ],
+      [
+        27.4,
+        26.1
+      ],
+      [
+        30,
+        27
+      ]
+    ],
+    "thickness": 1.6,
+    "transverse_crown": 0.7,
+    "corner_radius": 2.5,
+    "edge_radius": 0.25,
+    "front_frame_cut_z": 11.8
+  },
+  "base_trim": {
+    "planar_inset_mm": 0.7,
+    "front_rear_trim_mm": 0.8,
+    "source": "exports/v06/quietmirror_fingertip_V0.6_SHELL.step",
+    "retain_feet_and_sensor": true
+  },
+  "fenrir_side": {
+    "band_center_d": 43.5,
+    "band_center_z": 15.2,
+    "band_length": 26.6,
+    "band_height": 4.8,
+    "slope": 0.1,
+    "split_gap": 1.4,
+    "surface_protrusion": 0.35,
+    "skin_depth": 1.8,
+    "aperture_clearance": 0.3,
+    "edge_radius": 0.3
+  }
+}

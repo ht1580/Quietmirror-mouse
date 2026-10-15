@@ -1,0 +1,172 @@
+{
+  "version": "0.9",
+  "all_required_checks_pass": true,
+  "print_parts": 20,
+  "meshes": [
+    {
+      "file": "exports/v09/print/AXLE.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": -2.1094237203180178e-16
+    },
+    {
+      "file": "exports/v09/print/AXLE_WASHER.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": -2.1094237203180178e-16
+    },
+    {
+      "file": "exports/v09/print/BODY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/DETENT_LEAF.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/left_KEY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.00032196668325923383
+    },
+    {
+      "file": "exports/v09/print/left_RETAINER.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": -1.3471115378436846e-16
+    },
+    {
+      "file": "exports/v09/print/left_TRAY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/middle_RETAINER.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 3.418002617660361e-15
+    },
+    {
+      "file": "exports/v09/print/middle_TRAY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/right_KEY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0001203060892294161
+    },
+    {
+      "file": "exports/v09/print/right_RETAINER.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": -1.3471115378436846e-16
+    },
+    {
+      "file": "exports/v09/print/right_TRAY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/thumb_front_KEY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 1.0000000116860974e-07
+    },
+    {
+      "file": "exports/v09/print/thumb_front_RETAINER.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 2.220446049250313e-15
+    },
+    {
+      "file": "exports/v09/print/thumb_front_TRAY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/thumb_rear_KEY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 1.0000000116860974e-07
+    },
+    {
+      "file": "exports/v09/print/thumb_rear_RETAINER.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 2.220446049250313e-15
+    },
+    {
+      "file": "exports/v09/print/thumb_rear_TRAY.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/WHEEL.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/print/WHEEL_CARRIER.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/calibration/AXLE_TEST.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/calibration/CLEARANCE_COUPON.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    },
+    {
+      "file": "exports/v09/calibration/STEM_TEST.stl",
+      "watertight": true,
+      "winding_consistent": true,
+      "components": 1,
+      "bottom_z_mm": 0.0
+    }
+  ],
+  "print_3mf_units": "millimeter",
+  "print_3mf_objects": 20,
+  "embedded_profile_verified": true,
+  "delivery": "E:\\Projects\\Quietmirror\\_support\\outputs\\Quietmirror_V0.9_PLA"
+}

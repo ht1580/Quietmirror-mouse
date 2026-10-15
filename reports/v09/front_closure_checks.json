@@ -1,0 +1,117 @@
+{
+  "pass_check": true,
+  "tests_run": 4,
+  "fixed_front_panel_probe_x_mm": [
+    -14.5,
+    14.5
+  ],
+  "fixed_front_panel_probe_d_mm": 1.0,
+  "fixed_front_panel_probe_z_mm": [
+    3.0,
+    6.0,
+    9.0
+  ],
+  "USB_probe_xyz_mm": [
+    0.0,
+    -0.5,
+    7.1
+  ],
+  "moving_key_minimum_z_mm": [
+    8.709393668313615,
+    8.709395352944297
+  ],
+  "USB_straight_gauge": {
+    "width_mm": 12.2,
+    "height_mm": 5.2,
+    "corner_radius_mm": 1.4,
+    "y_limits_mm": [
+      -8.0,
+      6.0
+    ],
+    "center_z_mm": 7.1,
+    "part_overlaps": [
+      {
+        "part": "AXLE",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "AXLE_WASHER",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "BODY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "DETENT_LEAF",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "left_KEY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "left_RETAINER",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "left_TRAY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "middle_RETAINER",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "middle_TRAY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "right_KEY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "right_RETAINER",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "right_TRAY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "thumb_front_KEY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "thumb_front_RETAINER",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "thumb_front_TRAY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "thumb_rear_KEY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "thumb_rear_RETAINER",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "thumb_rear_TRAY",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "WHEEL",
+        "overlap_mm3": 0.0
+      },
+      {
+        "part": "WHEEL_CARRIER",
+        "overlap_mm3": 0.0
+      }
+    ]
+  },
+  "source_metrics_sha256": "fbdb4d919f27dce56fadd6a88e54686940c5ffacd8f72604e9d05896825e72c7",
+  "limits": "Fixed-face points, full moving-key lower bound, and a declared 12.2x5.2 mm straight charging gauge. Actual connector, PCB mounting and cable strain relief remain untested. Mechanism paths and walls are verified separately."
+}
