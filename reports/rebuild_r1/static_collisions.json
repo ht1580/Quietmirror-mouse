@@ -1,0 +1,131 @@
+{
+  "pairs": [
+    {
+      "a": "BODY",
+      "b": "LEFT_KEY",
+      "overlap_mm3": 28.84190955081923,
+      "pass": false
+    },
+    {
+      "a": "BODY",
+      "b": "RIGHT_KEY",
+      "overlap_mm3": 28.974498186762396,
+      "pass": false
+    },
+    {
+      "a": "BODY",
+      "b": "SIDE_FRONT_KEY",
+      "overlap_mm3": 0,
+      "pass": true
+    },
+    {
+      "a": "BODY",
+      "b": "SIDE_REAR_KEY",
+      "overlap_mm3": 0.4530248481460485,
+      "pass": false
+    },
+    {
+      "a": "BODY",
+      "b": "WHEEL",
+      "overlap_mm3": 0,
+      "pass": true
+    },
+    {
+      "a": "BODY",
+      "b": "WHEEL_CARRIER",
+      "overlap_mm3": 0,
+      "pass": true
+    },
+    {
+      "a": "LEFT_KEY",
+      "b": "RIGHT_KEY",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "LEFT_KEY",
+      "b": "SIDE_FRONT_KEY",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "LEFT_KEY",
+      "b": "SIDE_REAR_KEY",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "LEFT_KEY",
+      "b": "WHEEL",
+      "overlap_mm3": 0,
+      "pass": true
+    },
+    {
+      "a": "LEFT_KEY",
+      "b": "WHEEL_CARRIER",
+      "overlap_mm3": 0,
+      "pass": true
+    },
+    {
+      "a": "RIGHT_KEY",
+      "b": "SIDE_FRONT_KEY",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "RIGHT_KEY",
+      "b": "SIDE_REAR_KEY",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "RIGHT_KEY",
+      "b": "WHEEL",
+      "overlap_mm3": 0,
+      "pass": true
+    },
+    {
+      "a": "RIGHT_KEY",
+      "b": "WHEEL_CARRIER",
+      "overlap_mm3": 0,
+      "pass": true
+    },
+    {
+      "a": "SIDE_FRONT_KEY",
+      "b": "SIDE_REAR_KEY",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "SIDE_FRONT_KEY",
+      "b": "WHEEL",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "SIDE_FRONT_KEY",
+      "b": "WHEEL_CARRIER",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "SIDE_REAR_KEY",
+      "b": "WHEEL",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "SIDE_REAR_KEY",
+      "b": "WHEEL_CARRIER",
+      "overlap_mm3": 0.0,
+      "pass": true
+    },
+    {
+      "a": "WHEEL",
+      "b": "WHEEL_CARRIER",
+      "overlap_mm3": 9.69942626131974,
+      "pass": false
+    }
+  ],
+  "pass": false
+}

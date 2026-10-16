@@ -1,0 +1,381 @@
+{
+  "upstream": "https://github.com/Quietmirror/github",
+  "commit": "65d2ee671d70bcb294c66902392cb64b8058e74f",
+  "verification": "Independent read-only CAD/STL topology and horizontal sections; original motion report reviewed but not rerun.",
+  "parts": [
+    {
+      "name": "BODY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        61.96792984008789,
+        90.26394653320312,
+        26.001155853271484
+      ],
+      "stl_sha256": "8b0114efa3835634e3b4ef091a7b4f5eb584f468422f08c286b4ff2462f9d3ce",
+      "step_sha256": "9e83f4812ff8c380388358c67e8f0244612182e953f70028f7ad7e909fe78e07"
+    },
+    {
+      "name": "left_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        23.0,
+        28.99999961256981,
+        12.526263236999512
+      ],
+      "stl_sha256": "e20b7055cc4c4cfda6efcee38a65e00805ca82b73c2fb4087eca13f5d4a6c709",
+      "step_sha256": "a2259028e248e5ebab86f8003d41fca80e62266a60fcf154752781add7b36ec7"
+    },
+    {
+      "name": "right_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        23.0,
+        28.99999961256981,
+        12.526006698608398
+      ],
+      "stl_sha256": "39f177ac57e7a95583102edc5ec6cf00e4e4b29758fb8264d8127c76ce6c03ea",
+      "step_sha256": "e45179a848b67fcb062002a8fc27de7c0cd381bce4cee7df8d59d8f708113799"
+    },
+    {
+      "name": "thumb_front_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        8.075830459594727,
+        12.564231872558594,
+        5.812862396240234
+      ],
+      "stl_sha256": "08b7db563ae24d9536f1d65d09b87ffab44694c0a52cef32e9ce22ace08ce630",
+      "step_sha256": "d1886f8fdde51fe8301df684e24ea7f21349b605ba465a26b6ae2e2cef7a8d5b"
+    },
+    {
+      "name": "thumb_rear_KEY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        7.957496643066406,
+        12.564605712890625,
+        5.813896179199219
+      ],
+      "stl_sha256": "edfd251f5181562c68519a2623e203f810c5b9d4917750aad633b8ab3b9a5eb6",
+      "step_sha256": "b43450edf9a220186ca23b74f6c9834670fdc1591ece5968a7b4d7276d82ab38"
+    },
+    {
+      "name": "WHEEL",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        5.199999809265137,
+        15.0,
+        15.0
+      ],
+      "stl_sha256": "fad0875c74fe469c385a4289c7d29b31f9b9b4ea609fb4e1210ab5dd305c2555",
+      "step_sha256": "20aef2493e505bf7cb80c8962aa3886c230a4486c3d47d0ea747c0fa62251bd7"
+    },
+    {
+      "name": "AXLE",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        15.800000190734863,
+        3.799999237060547,
+        3.799999237060547
+      ],
+      "stl_sha256": "e2d8d4edc622c511b7d016999812ca7bedff4c8cbf9914d58b2a1781d92a01ba",
+      "step_sha256": "9a95c8dd9f535c120dcbef22e05a9678ef2343ee827395d075fe544a2849726a"
+    },
+    {
+      "name": "AXLE_WASHER",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        1.1999998092651367,
+        3.799999237060547,
+        3.799999237060547
+      ],
+      "stl_sha256": "53984818b7f6213e22f13957623ce8107adbd33220fcc30ae961ae41abc19740",
+      "step_sha256": "e1533c0eb871bc494201951899d87688b61b16641f1c7a5dd22a8bb970309558"
+    },
+    {
+      "name": "WHEEL_CARRIER",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        12.199999809265137,
+        26.000001907348633,
+        15.199999809265137
+      ],
+      "stl_sha256": "56fda2224b25efbe73eb7ddd1c59cbdebfc2c0e5300fd75147820979e4f27e7e",
+      "step_sha256": "785852b9e70b5eb34b00602460dac214f4a8dc81c42c7da0ae613108af2e1748"
+    },
+    {
+      "name": "DETENT_LEAF",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        6.0,
+        5.0,
+        6.700000286102295
+      ],
+      "stl_sha256": "1b91e7cac2eec3c3de64da98e45331191b01fe2b84fdf9914de78461b4e9369c",
+      "step_sha256": "3217fda3753916ee7cd019de6b78e0060bf5506d232d71defe228be8e614def0"
+    },
+    {
+      "name": "left_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        8.0,
+        11.200000762939453,
+        1.6000003814697266
+      ],
+      "stl_sha256": "4684882a1b84c7f6f91bbf9183f4308198cba9768a10b3f6ee78bbd91af71a82",
+      "step_sha256": "bde6a2a8a325642bce9028f477af42c8707fdc974eb3df5d29c3bfa2c612c69c"
+    },
+    {
+      "name": "left_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        17.596827507019043,
+        9.799999237060547,
+        4.899999618530273
+      ],
+      "stl_sha256": "db7f9e9bf0a9fbbccd26ff899eac6e8b156b7a699b8a3f8e959b37b892849de8",
+      "step_sha256": "4bd87b3263a98eb2237c7b491ef82c9dea25953da90fa3b2580d004887972229"
+    },
+    {
+      "name": "right_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        8.0,
+        11.200000762939453,
+        1.6000003814697266
+      ],
+      "stl_sha256": "02831c8a42be1348f3b59189b3d2cfbc6d799f56902ae89c3a443e41fa17e2a4",
+      "step_sha256": "0d8c4b924a9a420488d902f1c036f4b867b12da46168c9f93c3610f480d81b94"
+    },
+    {
+      "name": "right_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        17.596827507019043,
+        9.799999237060547,
+        4.899999618530273
+      ],
+      "stl_sha256": "b1be6767856fd18c6d670287cff446f9855878b156e19ea9f190bf7c3f8c15b4",
+      "step_sha256": "019d8162f7e95c801d34f9f671086c2e4d7f1b82dfaff3f2891a1226be02b302"
+    },
+    {
+      "name": "middle_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        8.0,
+        11.19999885559082,
+        1.6000003814697266
+      ],
+      "stl_sha256": "60c94fc804f569be8c93bc1f27f10d29ea22ce6772434fd39c36dfcdc217c865",
+      "step_sha256": "992c52759bc31c217234e51aab7a00d306ebaf4da001ef801679750e83147e20"
+    },
+    {
+      "name": "middle_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        17.596826553344727,
+        9.80000114440918,
+        4.899999618530273
+      ],
+      "stl_sha256": "59dacbaa430b5139cfa89ebe0df08b7bed7191bacf11035ceae04f9e4db84f9d",
+      "step_sha256": "6eaa73c62e65a43025cdeb2773775a83b07503726327ea51096ed11277f79fc4"
+    },
+    {
+      "name": "thumb_front_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        1.6000003814697266,
+        11.19999885559082,
+        5.600000381469727
+      ],
+      "stl_sha256": "d04024aa86eadb80e22e3a6266981f0922735ee8df14f4698e2f631f5bb0e57a",
+      "step_sha256": "1b465186eda355e113b7dbaa967421afb7f9ca0812db2cd0fc859b55daa9d208"
+    },
+    {
+      "name": "thumb_front_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        4.899999618530273,
+        11.399991989135742,
+        13.199895858764648
+      ],
+      "stl_sha256": "89f66735bb0de43e46dc3dfbb6539d91b3b954d92955b7db4b111fc1fa1c2309",
+      "step_sha256": "03bb4d9e99bc07140e5c29be4ef6b07f1879d1e3c6559d93d26784d3f1312c0e"
+    },
+    {
+      "name": "thumb_rear_RETAINER",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        1.6000003814697266,
+        11.199996948242188,
+        5.600000381469727
+      ],
+      "stl_sha256": "263f56cc7e2504e341a0a5e4fc8cf854fb1d6e3f039c073ac32e9192a46532bd",
+      "step_sha256": "4a117d5e838059001a110f01a97270e55fe63310451a63ccab5052481bab1f5e"
+    },
+    {
+      "name": "thumb_rear_TRAY",
+      "cad_valid": true,
+      "solids": 1,
+      "mesh_watertight": true,
+      "mesh_winding": true,
+      "components": 1,
+      "self_intersecting_faces": 0,
+      "dimensions_xyz_mm": [
+        4.899999618530273,
+        11.399993896484375,
+        13.199895858764648
+      ],
+      "stl_sha256": "706394dccfde836bd2bfcc5e8701cb81bfaacca08f75d50d9b23a537d3b2025f",
+      "step_sha256": "f47abd24b6b7224b467a2263f0da10630efde9659a5045ded128cce7f5368dde"
+    }
+  ],
+  "planform_area_mm2": 4620.296167720147,
+  "bottom_sections": [
+    {
+      "z_mm": 0.2,
+      "material_area_mm2": 303.85054509906394,
+      "material_outside_five_feet_mm2": 3.325946694953376e-05,
+      "solid_components": 5,
+      "open_area_fraction_of_full_planform": 0.9342356996025654
+    },
+    {
+      "z_mm": 1,
+      "material_area_mm2": 1320.184891876082,
+      "material_outside_five_feet_mm2": 1016.215429181438,
+      "solid_components": 1,
+      "open_area_fraction_of_full_planform": 0.7142640116666985
+    },
+    {
+      "z_mm": 1.8,
+      "material_area_mm2": 1513.262399910284,
+      "material_outside_five_feet_mm2": 1209.2997972190094,
+      "solid_components": 1,
+      "open_area_fraction_of_full_planform": 0.6724750221678987
+    },
+    {
+      "z_mm": 2.3,
+      "material_area_mm2": 1558.3387862691984,
+      "material_outside_five_feet_mm2": 1262.3125719552456,
+      "solid_components": 1,
+      "open_area_fraction_of_full_planform": 0.662718854008411
+    },
+    {
+      "z_mm": 2.5,
+      "material_area_mm2": 1447.5597085449413,
+      "material_outside_five_feet_mm2": 1269.649291193161,
+      "solid_components": 2,
+      "open_area_fraction_of_full_planform": 0.6866954723252667
+    },
+    {
+      "z_mm": 3.5,
+      "material_area_mm2": 934.2991729506007,
+      "material_outside_five_feet_mm2": 910.2515557983287,
+      "solid_components": 3,
+      "open_area_fraction_of_full_planform": 0.79778370497586
+    },
+    {
+      "z_mm": 5.3,
+      "material_area_mm2": 452.51477922988136,
+      "material_outside_five_feet_mm2": 428.81607445040817,
+      "solid_components": 1,
+      "open_area_fraction_of_full_planform": 0.9020593566292587
+    }
+  ],
+  "pass_topology": true,
+  "elapsed_seconds": 20.074026107788086
+}

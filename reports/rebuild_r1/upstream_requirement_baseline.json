@@ -1,0 +1,143 @@
+{
+  "valid": true,
+  "connected_solids": 1,
+  "bounds_mm": [
+    61.97101918473383,
+    90.26394109478677,
+    26.00224268858436
+  ],
+  "nominal_width_length_height": [
+    61.2,
+    81.7,
+    28.3
+  ],
+  "dimension_gate": false,
+  "low_band_height_mm": 5.0,
+  "outside_five_pad_prisms_volume_mm3": 4048.194035252426,
+  "low_band_slices": [
+    {
+      "z": 0.1,
+      "material_area": 304.106168867492,
+      "outside_five_pad_prisms_area": 0,
+      "faces": 5
+    },
+    {
+      "z": 0.3526315789473684,
+      "material_area": 304.106168867492,
+      "outside_five_pad_prisms_area": 0,
+      "faces": 5
+    },
+    {
+      "z": 0.6052631578947368,
+      "material_area": 811.3472463086745,
+      "outside_five_pad_prisms_area": 506.67422745877656,
+      "faces": 1
+    },
+    {
+      "z": 0.8578947368421052,
+      "material_area": 814.8686594082836,
+      "outside_five_pad_prisms_area": 510.1652331855015,
+      "faces": 1
+    },
+    {
+      "z": 1.1105263157894738,
+      "material_area": 1330.4379806122731,
+      "outside_five_pad_prisms_area": 1025.5039831208205,
+      "faces": 1
+    },
+    {
+      "z": 1.3631578947368421,
+      "material_area": 1371.404774939881,
+      "outside_five_pad_prisms_area": 1066.4181971047253,
+      "faces": 1
+    },
+    {
+      "z": 1.6157894736842104,
+      "material_area": 1416.006311830202,
+      "outside_five_pad_prisms_area": 1111.0015344040148,
+      "faces": 1
+    },
+    {
+      "z": 1.8684210526315792,
+      "material_area": 1521.7537491974585,
+      "outside_five_pad_prisms_area": 1216.744760817449,
+      "faces": 1
+    },
+    {
+      "z": 2.1210526315789475,
+      "material_area": 1551.1285724119775,
+      "outside_five_pad_prisms_area": 1246.6672367749088,
+      "faces": 1
+    },
+    {
+      "z": 2.373684210526316,
+      "material_area": 1542.4219472998534,
+      "outside_five_pad_prisms_area": 1253.8221770758637,
+      "faces": 1
+    },
+    {
+      "z": 2.626315789473684,
+      "material_area": 1624.1397540829173,
+      "outside_five_pad_prisms_area": 1445.4666802355493,
+      "faces": 2
+    },
+    {
+      "z": 2.8789473684210525,
+      "material_area": 1600.0701855723187,
+      "outside_five_pad_prisms_area": 1423.3640788325606,
+      "faces": 2
+    },
+    {
+      "z": 3.131578947368421,
+      "material_area": 1586.8666432508514,
+      "outside_five_pad_prisms_area": 1412.3798363432263,
+      "faces": 2
+    },
+    {
+      "z": 3.3842105263157896,
+      "material_area": 952.9471174313244,
+      "outside_five_pad_prisms_area": 916.2412627648725,
+      "faces": 3
+    },
+    {
+      "z": 3.6368421052631583,
+      "material_area": 842.1557946889191,
+      "outside_five_pad_prisms_area": 825.0763137919351,
+      "faces": 3
+    },
+    {
+      "z": 3.889473684210526,
+      "material_area": 723.9005059658774,
+      "outside_five_pad_prisms_area": 709.0317838686364,
+      "faces": 2
+    },
+    {
+      "z": 4.1421052631578945,
+      "material_area": 602.638118575424,
+      "outside_five_pad_prisms_area": 577.7651141748042,
+      "faces": 2
+    },
+    {
+      "z": 4.394736842105263,
+      "material_area": 644.519127680444,
+      "outside_five_pad_prisms_area": 629.260331584384,
+      "faces": 2
+    },
+    {
+      "z": 4.647368421052631,
+      "material_area": 460.1038985061926,
+      "outside_five_pad_prisms_area": 444.5999583374062,
+      "faces": 1
+    },
+    {
+      "z": 4.8999999999999995,
+      "material_area": 356.63166123419313,
+      "outside_five_pad_prisms_area": 338.2344307759792,
+      "faces": 1
+    }
+  ],
+  "open_bottom_gate": false,
+  "pass": false,
+  "source": "E:\\Projects\\Quietmirror\\_support\\work\\upstream_v09_audit\\BODY.step",
+  "expected_failure": true
+}

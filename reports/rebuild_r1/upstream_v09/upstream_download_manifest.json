@@ -1,0 +1,247 @@
+{
+  "upstream": "https://github.com/Quietmirror/github",
+  "commit": "65d2ee671d70bcb294c66902392cb64b8058e74f",
+  "local_clone": "E:\\Projects\\Quietmirror\\upstream_v09_20261015",
+  "files": [
+    {
+      "path": "HISTORY.md",
+      "bytes": 9111,
+      "sha256": "93e649dcfa5e5d0de45e38a2b4a19cd3ce01a3eba9342a7f88be7a82a2e34e1e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10539,
+      "sha256": "1f31bd275a220170725f80bb32ed70ef2e1410799e8ae598c9ee7e1b3501543e"
+    },
+    {
+      "path": "cad/PARAMETERS_V0.9.md",
+      "bytes": 6999,
+      "sha256": "7207aede415624f817166f5ac1c3de1dc9674e242c9d7ea9ac20e476b1b4935d"
+    },
+    {
+      "path": "cad/build_v09.py",
+      "bytes": 14639,
+      "sha256": "8c87addfeb2fc0d34d40876617fd1cc274d9524850f0b97402d25e89eca7e895"
+    },
+    {
+      "path": "cad/calibration_v09.py",
+      "bytes": 943,
+      "sha256": "b7d2e8c19a11045d04d3ff2bbcfaf5a253164bb71714b6c24e26a86501a8863f"
+    },
+    {
+      "path": "cad/check_geometry_v09.py",
+      "bytes": 5497,
+      "sha256": "183b574e5f3d5b08e3053b8d7210e4596dcc5ff07b944d14c223cc5f4a782ca4"
+    },
+    {
+      "path": "cad/check_history_v09.py",
+      "bytes": 1560,
+      "sha256": "f582531a55cccea736587c8ee58e93cf788a49bfe20f81005dd97a768d120153"
+    },
+    {
+      "path": "cad/check_package_v09.py",
+      "bytes": 4455,
+      "sha256": "2a41c91bb422685eed2905cfe2415282639ae257a37d65076522f692d557c15b"
+    },
+    {
+      "path": "cad/clearances_v09.py",
+      "bytes": 2078,
+      "sha256": "9aee81ba0c7c8715515f232b6ce29be934482238783e4505ad218ef387bc0d65"
+    },
+    {
+      "path": "cad/electronics_v09.json",
+      "bytes": 12503,
+      "sha256": "f60e664b25288e6692e5c76be65eedcb9dd6e61c54c3b74476e02dbbe0523bc3"
+    },
+    {
+      "path": "cad/electronics_v09.py",
+      "bytes": 4679,
+      "sha256": "85cb3bb674cd92e179b84687311c3c81caa8582ba41a5c59c64abd20887dcf3e"
+    },
+    {
+      "path": "cad/export_v09.py",
+      "bytes": 1551,
+      "sha256": "d610253bc1998bfbb30ba1237cc26bcae54a567773cb4e94d26ae11ec87c4290"
+    },
+    {
+      "path": "cad/finalize_v09_carrier.py",
+      "bytes": 9410,
+      "sha256": "43d76e93526c2f1dafc2a00e57476ffc95930956401d048586fa96d1170f36cc"
+    },
+    {
+      "path": "cad/mechanisms_v09.py",
+      "bytes": 6078,
+      "sha256": "fb5d5c35f47eca61a14cf44810c420c20e4332ccd384efabbcf80fb6c759f88b"
+    },
+    {
+      "path": "cad/open_v09_in_FreeCAD.FCMacro",
+      "bytes": 1431,
+      "sha256": "9022a758034a576c4e31c537107bae0cb57ec7d286e9350b6397f771bf9de5a1"
+    },
+    {
+      "path": "cad/package_steps_v09.py",
+      "bytes": 2779,
+      "sha256": "151c947a1f6406cb931f7742be05e3916d5077e379d3129c3799595da9bcb496"
+    },
+    {
+      "path": "cad/parameters_v09.json",
+      "bytes": 5232,
+      "sha256": "27f290fcfe95befb528b55373f805f013b006f16bd3d4759bcb0b0631eff9aea"
+    },
+    {
+      "path": "cad/refresh_v09_wheel.py",
+      "bytes": 2121,
+      "sha256": "7c21523b712f78b48e5a96d3ec2e7d49a25a6a251b86a50195aa05bd828ea407"
+    },
+    {
+      "path": "cad/render_electronics_v09.py",
+      "bytes": 2043,
+      "sha256": "d18df958ab3c21623718cc46f8929c599a376e230d7fca3322da53297b88bb8b"
+    },
+    {
+      "path": "cad/render_v09.py",
+      "bytes": 3195,
+      "sha256": "271ea1092f954d2f11faa7285ab4d25f733775b86004c8818b3bf47f7e65d4ee"
+    },
+    {
+      "path": "cad/restore_v09_platforms.py",
+      "bytes": 4177,
+      "sha256": "b6586693c1f6d67f572a6e090a3e671760644ee3b5357c604fbe23e3859b5f8b"
+    },
+    {
+      "path": "cad/slice_v09.py",
+      "bytes": 4282,
+      "sha256": "9b98666d99562dda65ee937ac685f1914f85b23055c19be07fae89548675e749"
+    },
+    {
+      "path": "cad/validate_v09.py",
+      "bytes": 12676,
+      "sha256": "6926d6041559e144d1fc1ecc04c2d06e3b0860d8277879beb9cb8ad95f267f64"
+    },
+    {
+      "path": "cad/vent_layout_v09.py",
+      "bytes": 3595,
+      "sha256": "d50699c2bafc2ab0f62c282bcba774aa24a2d91e8cc2955aceeb6f5571794386"
+    },
+    {
+      "path": "cad/write_release_v09.py",
+      "bytes": 16299,
+      "sha256": "9e27445f695f85bd84f30d1c0ec0c8fb26ff4d8ff89e0c98554bdcbbf9a6b457"
+    },
+    {
+      "path": "references/FENRIR_REFERENCE.md",
+      "bytes": 3673,
+      "sha256": "6615a527ebb8b07fdbe15596684e7c2a2f056a40c65b9479c9d5040881596b93"
+    },
+    {
+      "path": "references/V0.9_REFERENCE_NOTES.md",
+      "bytes": 2204,
+      "sha256": "a70cb557c674569fcb0e0447e148d855e8c369d325756fb871bf96f0697d54bb"
+    },
+    {
+      "path": "reports/v09/ASSEMBLY.md",
+      "bytes": 8974,
+      "sha256": "c10f41049734e473133df16f4859fea9f43dcb8642e95c57daee458a0cf55874"
+    },
+    {
+      "path": "reports/v09/ATK_A1_PLUS_clearances.json",
+      "bytes": 2409,
+      "sha256": "5a61d7badeb0651f4d6be81937af8782059e04346ec564de08604ba26e115b4d"
+    },
+    {
+      "path": "reports/v09/ATK_A1_PLUS_layout.json",
+      "bytes": 9960,
+      "sha256": "c6c650fee832741b3620b040b92293f75bd8014c8c49d4594be84cf4a8b71f14"
+    },
+    {
+      "path": "reports/v09/DESIGN.md",
+      "bytes": 10815,
+      "sha256": "547805479f90c00840887a82485412d50f9bcefa6528aa3f1d908204fee7f2ab"
+    },
+    {
+      "path": "reports/v09/ELECTRONICS.md",
+      "bytes": 5830,
+      "sha256": "492a36c4e252608506848118b005c6591922c545d33ecc09a650fc76116c5688"
+    },
+    {
+      "path": "reports/v09/PAW3950_CUSTOM_clearances.json",
+      "bytes": 2205,
+      "sha256": "45c3c9be82808df67f328930ef04fdc95c8155da043b2c4ebfc5581f0f539089"
+    },
+    {
+      "path": "reports/v09/PAW3950_CUSTOM_layout.json",
+      "bytes": 9401,
+      "sha256": "fb6d3860c2c1b01b511fd20f6afe23c0b5d090953d1ef75703e115a0f7d616fe"
+    },
+    {
+      "path": "reports/v09/base_trim.json",
+      "bytes": 181,
+      "sha256": "24ebbcaded263760d0816b0b125d139d3b09bfb2ba6cf57407f5ae8290e1632d"
+    },
+    {
+      "path": "reports/v09/body_step_archive.json",
+      "bytes": 371,
+      "sha256": "4e0fa0ad5825e001c7cab76fff5e575bc127ce9d3375bec00871918ba96acb58"
+    },
+    {
+      "path": "reports/v09/cad_metrics.json",
+      "bytes": 29307,
+      "sha256": "53edba1c4b69454f3fd1b6fe7380ac7db2e9863b0e0afa86efb394eb7a08393d"
+    },
+    {
+      "path": "reports/v09/carrier_revision.json",
+      "bytes": 1235,
+      "sha256": "659b1e7be363e3b79abe7e9971d307c1351a3ce3d12d9a37b1e0832d6f082525"
+    },
+    {
+      "path": "reports/v09/geometry_checks.json",
+      "bytes": 127340,
+      "sha256": "e6ebbdb77dce7e476d877cef7b1d6b8f118025e02754717135970ab9a393ca38"
+    },
+    {
+      "path": "reports/v09/history_preservation.json",
+      "bytes": 74526,
+      "sha256": "de3caaef22b869b15a7c1ef4f868ae0b8fe6e26fe49340f719a38305bdad6d9e"
+    },
+    {
+      "path": "reports/v09/package_checks.json",
+      "bytes": 7593,
+      "sha256": "83baffb05a1ff8285e7ac492275d50783023494649c33d7643e162fea1c868c5"
+    },
+    {
+      "path": "reports/v09/platform_restoration.json",
+      "bytes": 6912,
+      "sha256": "d643c6ddd735d489c6b606f0c176e8967d73c24587b12377dc4badd2f601fa46"
+    },
+    {
+      "path": "reports/v09/slice_summary.json",
+      "bytes": 6198,
+      "sha256": "b64c86288adac6c2abe2c03e7121cb3ee5daf871a3e096fc2e9266047e6ced61"
+    },
+    {
+      "path": "reports/v09/slicer_model_info.txt",
+      "bytes": 5529,
+      "sha256": "8e65e3f31a19db3cbd570e04e65acd1507bbdc9523b35744074d71ebd677cf3b"
+    },
+    {
+      "path": "reports/v09/static_intersections.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "reports/v09/step_archive.json",
+      "bytes": 941,
+      "sha256": "bbf426d6fade2471f85945c7785c70dc8b78bf73e8690d6be584cbf47bf19e99"
+    },
+    {
+      "path": "reports/v09/validation.json",
+      "bytes": 37834,
+      "sha256": "c5d43e6460368b871d6db0ec44005494b41abe16ef1c2bd9cccde5648d52e1a9"
+    },
+    {
+      "path": "reports/v09/vent_layout.json",
+      "bytes": 310519,
+      "sha256": "982725bb12de17dbea338c8dc49b20bd57f78a9dd639323fedf4daef5a6433c5"
+    }
+  ]
+}

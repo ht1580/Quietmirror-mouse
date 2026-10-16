@@ -1,0 +1,82 @@
+{
+  "parts": [
+    {
+      "part": "BODY",
+      "watertight": false,
+      "consistent_winding": true,
+      "connected_components": 13,
+      "self_intersecting_faces": 9,
+      "faces": 57707,
+      "positive_volume": true,
+      "sha256": "0e18c8aebd949e5528c4493133ee186dc8d22ff913e435457680657963a748c1",
+      "pass": false
+    },
+    {
+      "part": "LEFT_KEY",
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "self_intersecting_faces": 0,
+      "faces": 2294,
+      "positive_volume": true,
+      "sha256": "674e4fb45ca3d14f0e4b95dab6b7a331a530e96e3f5106b090e50b47a7a65650",
+      "pass": true
+    },
+    {
+      "part": "RIGHT_KEY",
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "self_intersecting_faces": 0,
+      "faces": 2304,
+      "positive_volume": true,
+      "sha256": "488d41d27bcd9e21be928bb3c7795b1967495c5d64243b278acd3979db589bb2",
+      "pass": true
+    },
+    {
+      "part": "SIDE_FRONT_KEY",
+      "watertight": false,
+      "consistent_winding": true,
+      "connected_components": 9,
+      "self_intersecting_faces": 0,
+      "faces": 5712,
+      "positive_volume": true,
+      "sha256": "69100edb2c86551dc4b87fe1cb17197fb7a2a8654f9c12ab4389c970ddce163d",
+      "pass": false
+    },
+    {
+      "part": "SIDE_REAR_KEY",
+      "watertight": false,
+      "consistent_winding": true,
+      "connected_components": 9,
+      "self_intersecting_faces": 0,
+      "faces": 5712,
+      "positive_volume": true,
+      "sha256": "69100edb2c86551dc4b87fe1cb17197fb7a2a8654f9c12ab4389c970ddce163d",
+      "pass": false
+    },
+    {
+      "part": "WHEEL",
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "self_intersecting_faces": 0,
+      "faces": 740,
+      "positive_volume": true,
+      "sha256": "6025a02f3def290b1d8486148d671f1247f9f951dad6d3367e74e210ac4a7e2a",
+      "pass": true
+    },
+    {
+      "part": "WHEEL_CARRIER",
+      "watertight": false,
+      "consistent_winding": true,
+      "connected_components": 2,
+      "self_intersecting_faces": 0,
+      "faces": 7761,
+      "positive_volume": true,
+      "sha256": "849f080966ce905452041f7019fe11f779595f17eb49c375b08d92f05b7533b5",
+      "pass": false
+    }
+  ],
+  "pass": false
+}

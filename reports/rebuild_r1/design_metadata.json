@@ -1,0 +1,1125 @@
+{
+  "parameters": {
+    "version": "R1",
+    "coordinates": "millimetres; X transverse, Y positive from front to rear, Z up; feet plane Z=0",
+    "host": {
+      "length": 81.7,
+      "width": 61.2,
+      "height": 28.3,
+      "scale": 1.0,
+      "skin": 1.8,
+      "base_open_band": 5.0
+    },
+    "feet": {
+      "diameter": 8.0,
+      "height": 1.8,
+      "stem_diameter": 5.2,
+      "centers": [
+        [
+          -21.5,
+          6.0
+        ],
+        [
+          21.5,
+          6.0
+        ],
+        [
+          -23.0,
+          58.0
+        ],
+        [
+          23.0,
+          58.0
+        ],
+        [
+          0.0,
+          77.3
+        ]
+      ]
+    },
+    "main": {
+      "root_y": 35.0,
+      "gutter_half": 4.2,
+      "cap_outer": 26.0,
+      "pin_diameter": 2.0,
+      "pin_hole": 2.35,
+      "travel_deg": 2.0,
+      "skin": 2.0
+    },
+    "side": {
+      "x": -28.0,
+      "centers_y": [
+        47.0,
+        60.0
+      ],
+      "z": 15.0,
+      "width_y": 10.0,
+      "height_z": 5.0,
+      "travel": 0.45
+    },
+    "hardware": {
+      "screw_nominal": 2.0,
+      "screw_clearance": 2.4,
+      "pilot": 1.7,
+      "wheel_diameter": 12.5,
+      "wheel_width": 6.5,
+      "wheel_axle": 2.0,
+      "switch_body": [
+        12.8,
+        5.8,
+        6.5
+      ]
+    },
+    "status": "independent reference reconstruction; commercial micro-switch envelope and generic component mounting; not verified original Fenrir PCB replacement",
+    "fixed_interfaces": {
+      "usb_port_opening_mm": [
+        10.2,
+        4.6
+      ],
+      "usb_plug_keepout_mm": [
+        14.0,
+        10.0,
+        8.0
+      ],
+      "sensor_optical_clearance_mm": [
+        18.0,
+        18.0
+      ],
+      "sensor_mount_slots_mm": [
+        2.4,
+        5.0
+      ],
+      "side_key_touch_mm": [
+        10.0,
+        5.0
+      ],
+      "foot_diameter_mm": 8.0,
+      "note": "Absolute dimensions locked during host scaling; generic reservation, donor hardware dimensions require measurement."
+    }
+  },
+  "surface": {
+    "identification": "G-Wolves Fenrir Pro 8K reference reconstruction",
+    "provenance": "Original parameterised loft from public manufacturer photographs and nominal dimensions; no factory CAD or third-party scan used.",
+    "original_factory_cad": false,
+    "original_pcb_fit_verified": false,
+    "nominal_overall_mm": {
+      "length": 81.7,
+      "width": 61.2,
+      "height": 28.3
+    },
+    "outer_bounds_mm": {
+      "xmin": -30.600000100000003,
+      "xmax": 30.600000100000006,
+      "ymin": -1e-07,
+      "ymax": 81.70000010000017,
+      "zmin": 4.999999899999995,
+      "zmax": 28.300000100000005,
+      "width": 61.200000200000005,
+      "length": 81.70000020000016,
+      "height": 23.30000020000001
+    },
+    "dimension_error_mm": {
+      "length": 2.0000015865662135e-07,
+      "width": 2.0000000233721948e-07,
+      "crown_height": 1.0000000472132342e-07
+    },
+    "nominal_skin_mm": 1.8,
+    "open_below_z_mm": 5.0,
+    "inner_method": "Slope-compensated transverse cavity; steep end roots retain extra material; final measured thickness required.",
+    "crown_station_yz_mm": [
+      [
+        0.0,
+        9.8
+      ],
+      [
+        6.0,
+        12.7
+      ],
+      [
+        10.0,
+        14.4
+      ],
+      [
+        15.0,
+        16.3
+      ],
+      [
+        20.0,
+        18.2
+      ],
+      [
+        25.0,
+        20.23
+      ],
+      [
+        30.0,
+        22.81
+      ],
+      [
+        35.0,
+        24.39
+      ],
+      [
+        40.0,
+        25.8
+      ],
+      [
+        45.0,
+        26.88
+      ],
+      [
+        50.0,
+        27.8
+      ],
+      [
+        55.0,
+        28.3
+      ],
+      [
+        60.0,
+        27.55
+      ],
+      [
+        65.0,
+        25.47
+      ],
+      [
+        68.0,
+        23.31
+      ],
+      [
+        70.0,
+        21.31
+      ],
+      [
+        72.0,
+        18.31
+      ],
+      [
+        74.0,
+        13.32
+      ],
+      [
+        75.0,
+        9.0
+      ],
+      [
+        76.0,
+        7.4
+      ],
+      [
+        78.0,
+        6.8
+      ],
+      [
+        80.0,
+        6.8
+      ],
+      [
+        81.7,
+        6.8
+      ]
+    ],
+    "width_station_y_halfwidth_mm": [
+      [
+        0.0,
+        0.9
+      ],
+      [
+        0.5,
+        10.0
+      ],
+      [
+        1.5,
+        17.0
+      ],
+      [
+        3.0,
+        21.0
+      ],
+      [
+        6.0,
+        24.4
+      ],
+      [
+        10.0,
+        26.1
+      ],
+      [
+        18.0,
+        27.6
+      ],
+      [
+        30.0,
+        28.3
+      ],
+      [
+        42.0,
+        29.2
+      ],
+      [
+        53.0,
+        30.45
+      ],
+      [
+        58.0,
+        30.6
+      ],
+      [
+        63.0,
+        29.8
+      ],
+      [
+        70.0,
+        28.3
+      ],
+      [
+        74.0,
+        26.0
+      ],
+      [
+        77.0,
+        22.0
+      ],
+      [
+        79.0,
+        18.2
+      ],
+      [
+        80.5,
+        12.0
+      ],
+      [
+        81.7,
+        0.9
+      ]
+    ],
+    "reference_dimension_discrepancy": "Current G-Wolves text width 61.2 mm; its uploaded EloShapes graphic says 60.2 mm. Text nominal dimensions used, image fit is qualitative.",
+    "reference_profile_adjustments": "Centre crown moved to Y55 to follow the official side graphic. Wheel bump is not incorporated into the skin. At Y78..81.7 the tail is raised to Z6.8 so the Z5 open-bottom datum retains at least 1.8 mm of tail material; this differs from the original low tail by approximately 1.5..2.6 mm.",
+    "minimum_foot_plane_z_mm": 0.0,
+    "shell_one_solid": true,
+    "shell_volume_mm3": 14886.06025744992
+  },
+  "mechanisms": {
+    "feet": [
+      {
+        "index": 1,
+        "center": [
+          -21.5,
+          6.0
+        ],
+        "diameter_mm": 8.0,
+        "contact_z": 0.0,
+        "pad_top_z": 1.8,
+        "stem_diameter_mm": 5.2,
+        "upper_connection": [
+          -25.75,
+          10.0,
+          7.5
+        ],
+        "load_path": "vertical foot stem to raised side/crown brace; no bottom plate"
+      },
+      {
+        "index": 2,
+        "center": [
+          21.5,
+          6.0
+        ],
+        "diameter_mm": 8.0,
+        "contact_z": 0.0,
+        "pad_top_z": 1.8,
+        "stem_diameter_mm": 5.2,
+        "upper_connection": [
+          25.75,
+          10.0,
+          7.5
+        ],
+        "load_path": "vertical foot stem to raised side/crown brace; no bottom plate"
+      },
+      {
+        "index": 3,
+        "center": [
+          -23.0,
+          58.0
+        ],
+        "diameter_mm": 8.0,
+        "contact_z": 0.0,
+        "pad_top_z": 1.8,
+        "stem_diameter_mm": 5.2,
+        "upper_connection": [
+          -30.25,
+          58.0,
+          11.2
+        ],
+        "load_path": "vertical foot stem to raised side/crown brace; no bottom plate"
+      },
+      {
+        "index": 4,
+        "center": [
+          23.0,
+          58.0
+        ],
+        "diameter_mm": 8.0,
+        "contact_z": 0.0,
+        "pad_top_z": 1.8,
+        "stem_diameter_mm": 5.2,
+        "upper_connection": [
+          30.25,
+          58.0,
+          11.2
+        ],
+        "load_path": "vertical foot stem to raised side/crown brace; no bottom plate"
+      },
+      {
+        "index": 5,
+        "center": [
+          0.0,
+          77.3
+        ],
+        "diameter_mm": 8.0,
+        "contact_z": 0.0,
+        "pad_top_z": 1.8,
+        "stem_diameter_mm": 5.2,
+        "upper_connection": [
+          0.0,
+          70.2,
+          20.36532465581977
+        ],
+        "load_path": "vertical foot stem to raised side/crown brace; no bottom plate"
+      }
+    ],
+    "main_hinges": [
+      {
+        "part": "LEFT_KEY",
+        "origin": [
+          0.0,
+          35.5,
+          15.626959543168763
+        ],
+        "axis": [
+          1,
+          0,
+          0
+        ],
+        "end_deg": 2.1,
+        "pin_diameter_mm": 2.0,
+        "bore_diameter_mm": 2.35,
+        "diametral_clearance_mm": 0.3500000000000001,
+        "actuation_point": [
+          -15,
+          20.0,
+          15.698936029089047
+        ],
+        "switch": "SWITCH_LEFT",
+        "nominal_actuator_gap_mm": 0.03,
+        "calculated_contact_travel_mm": 0.5380258248073567,
+        "stop_reference_point": [
+          -23.0,
+          11.5,
+          10.528659817290281
+        ],
+        "stop_reference_z": 9.612634858147105,
+        "switch_tilt_deg": 18.0,
+        "switch_mount_holes": [
+          [
+            -15,
+            20.617728495065986,
+            9.560874838630692
+          ],
+          [
+            -15,
+            26.799595850984485,
+            11.569485302067854
+          ]
+        ],
+        "switch_mount": "local 18 degree tilted socket; two M2 transverse bolts through actual D2F mounting holes; nuts/washers purchased separately"
+      },
+      {
+        "part": "RIGHT_KEY",
+        "origin": [
+          0.0,
+          35.5,
+          15.626959543168766
+        ],
+        "axis": [
+          1,
+          0,
+          0
+        ],
+        "end_deg": 2.1,
+        "pin_diameter_mm": 2.0,
+        "bore_diameter_mm": 2.35,
+        "diametral_clearance_mm": 0.3500000000000001,
+        "actuation_point": [
+          15,
+          20.0,
+          15.698936029087761
+        ],
+        "switch": "SWITCH_RIGHT",
+        "nominal_actuator_gap_mm": 0.03,
+        "calculated_contact_travel_mm": 0.538025824807356,
+        "stop_reference_point": [
+          23.0,
+          11.5,
+          10.52865981729028
+        ],
+        "stop_reference_z": 9.612634858147104,
+        "switch_tilt_deg": 18.0,
+        "switch_mount_holes": [
+          [
+            15,
+            20.617728495065986,
+            9.560874838629406
+          ],
+          [
+            15,
+            26.799595850984485,
+            11.569485302066568
+          ]
+        ],
+        "switch_mount": "local 18 degree tilted socket; two M2 transverse bolts through actual D2F mounting holes; nuts/washers purchased separately"
+      }
+    ],
+    "side_motions": [
+      {
+        "part": "SIDE_FRONT_KEY",
+        "kind": "translate",
+        "end_vector": [
+          0.6,
+          0.0,
+          0.0
+        ],
+        "switch": "SWITCH_SIDE_FRONT",
+        "actuation_point": [
+          -22.130964133060118,
+          47.0,
+          15.0
+        ],
+        "plunger_tip": [
+          -22.110964133060122,
+          47.0,
+          15.0
+        ],
+        "nominal_actuator_gap_mm": 0.02,
+        "hard_stop_travel_mm": 0.6,
+        "guide_clearance_per_side_mm": 0.325,
+        "capture_pin_diameter_mm": 1.5,
+        "capture_pin_hole_mm": 1.72,
+        "switch_mount_holes": [
+          [
+            -16.51096413306012,
+            45.7,
+            15.0
+          ],
+          [
+            -16.51096413306012,
+            52.2,
+            15.0
+          ]
+        ],
+        "switch_mount": "two M2 bolts along Z through D2F mounting holes and local suspended top/bottom rails",
+        "assembly": "Insert key from exterior, then 1.5 mm steel capture pin along Z from open top before switch socket is filled"
+      },
+      {
+        "part": "SIDE_REAR_KEY",
+        "kind": "translate",
+        "end_vector": [
+          0.6,
+          0.0,
+          0.0
+        ],
+        "switch": "SWITCH_SIDE_REAR",
+        "actuation_point": [
+          -22.729293997793278,
+          60.0,
+          15.0
+        ],
+        "plunger_tip": [
+          -22.709293997793278,
+          60.0,
+          15.0
+        ],
+        "nominal_actuator_gap_mm": 0.02,
+        "hard_stop_travel_mm": 0.6,
+        "guide_clearance_per_side_mm": 0.325,
+        "capture_pin_diameter_mm": 1.5,
+        "capture_pin_hole_mm": 1.72,
+        "switch_mount_holes": [
+          [
+            -17.109293997793277,
+            58.7,
+            15.0
+          ],
+          [
+            -17.109293997793277,
+            65.2,
+            15.0
+          ]
+        ],
+        "switch_mount": "two M2 bolts along Z through D2F mounting holes and local suspended top/bottom rails",
+        "assembly": "Insert key from exterior, then 1.5 mm steel capture pin along Z from open top before switch socket is filled"
+      }
+    ],
+    "motions": [
+      {
+        "part": "LEFT_KEY",
+        "origin": [
+          0.0,
+          35.5,
+          15.626959543168763
+        ],
+        "axis": [
+          1,
+          0,
+          0
+        ],
+        "end_deg": 2.1,
+        "pin_diameter_mm": 2.0,
+        "bore_diameter_mm": 2.35,
+        "diametral_clearance_mm": 0.3500000000000001,
+        "actuation_point": [
+          -15,
+          20.0,
+          15.698936029089047
+        ],
+        "switch": "SWITCH_LEFT",
+        "nominal_actuator_gap_mm": 0.03,
+        "calculated_contact_travel_mm": 0.5380258248073567,
+        "stop_reference_point": [
+          -23.0,
+          11.5,
+          10.528659817290281
+        ],
+        "stop_reference_z": 9.612634858147105,
+        "switch_tilt_deg": 18.0,
+        "switch_mount_holes": [
+          [
+            -15,
+            20.617728495065986,
+            9.560874838630692
+          ],
+          [
+            -15,
+            26.799595850984485,
+            11.569485302067854
+          ]
+        ],
+        "switch_mount": "local 18 degree tilted socket; two M2 transverse bolts through actual D2F mounting holes; nuts/washers purchased separately",
+        "kind": "rotate"
+      },
+      {
+        "part": "RIGHT_KEY",
+        "origin": [
+          0.0,
+          35.5,
+          15.626959543168766
+        ],
+        "axis": [
+          1,
+          0,
+          0
+        ],
+        "end_deg": 2.1,
+        "pin_diameter_mm": 2.0,
+        "bore_diameter_mm": 2.35,
+        "diametral_clearance_mm": 0.3500000000000001,
+        "actuation_point": [
+          15,
+          20.0,
+          15.698936029087761
+        ],
+        "switch": "SWITCH_RIGHT",
+        "nominal_actuator_gap_mm": 0.03,
+        "calculated_contact_travel_mm": 0.538025824807356,
+        "stop_reference_point": [
+          23.0,
+          11.5,
+          10.52865981729028
+        ],
+        "stop_reference_z": 9.612634858147104,
+        "switch_tilt_deg": 18.0,
+        "switch_mount_holes": [
+          [
+            15,
+            20.617728495065986,
+            9.560874838629406
+          ],
+          [
+            15,
+            26.799595850984485,
+            11.569485302066568
+          ]
+        ],
+        "switch_mount": "local 18 degree tilted socket; two M2 transverse bolts through actual D2F mounting holes; nuts/washers purchased separately",
+        "kind": "rotate"
+      },
+      {
+        "part": "SIDE_FRONT_KEY",
+        "kind": "translate",
+        "end_vector": [
+          0.6,
+          0.0,
+          0.0
+        ],
+        "switch": "SWITCH_SIDE_FRONT",
+        "actuation_point": [
+          -22.130964133060118,
+          47.0,
+          15.0
+        ],
+        "plunger_tip": [
+          -22.110964133060122,
+          47.0,
+          15.0
+        ],
+        "nominal_actuator_gap_mm": 0.02,
+        "hard_stop_travel_mm": 0.6,
+        "guide_clearance_per_side_mm": 0.325,
+        "capture_pin_diameter_mm": 1.5,
+        "capture_pin_hole_mm": 1.72,
+        "switch_mount_holes": [
+          [
+            -16.51096413306012,
+            45.7,
+            15.0
+          ],
+          [
+            -16.51096413306012,
+            52.2,
+            15.0
+          ]
+        ],
+        "switch_mount": "two M2 bolts along Z through D2F mounting holes and local suspended top/bottom rails",
+        "assembly": "Insert key from exterior, then 1.5 mm steel capture pin along Z from open top before switch socket is filled"
+      },
+      {
+        "part": "SIDE_REAR_KEY",
+        "kind": "translate",
+        "end_vector": [
+          0.6,
+          0.0,
+          0.0
+        ],
+        "switch": "SWITCH_SIDE_REAR",
+        "actuation_point": [
+          -22.729293997793278,
+          60.0,
+          15.0
+        ],
+        "plunger_tip": [
+          -22.709293997793278,
+          60.0,
+          15.0
+        ],
+        "nominal_actuator_gap_mm": 0.02,
+        "hard_stop_travel_mm": 0.6,
+        "guide_clearance_per_side_mm": 0.325,
+        "capture_pin_diameter_mm": 1.5,
+        "capture_pin_hole_mm": 1.72,
+        "switch_mount_holes": [
+          [
+            -17.109293997793277,
+            58.7,
+            15.0
+          ],
+          [
+            -17.109293997793277,
+            65.2,
+            15.0
+          ]
+        ],
+        "switch_mount": "two M2 bolts along Z through D2F mounting holes and local suspended top/bottom rails",
+        "assembly": "Insert key from exterior, then 1.5 mm steel capture pin along Z from open top before switch socket is filled"
+      },
+      {
+        "part": "WHEEL_CARRIER",
+        "kind": "rotate",
+        "origin": [
+          0.0,
+          38.5,
+          17.5
+        ],
+        "axis": [
+          1,
+          0,
+          0
+        ],
+        "end_deg": 2.4,
+        "moving_children": [
+          "WHEEL"
+        ],
+        "moving_hardware": [
+          "ENCODER_EC10E_HOUSING",
+          "ENCODER_EC10E_ROTOR"
+        ],
+        "switch": "SWITCH_MIDDLE",
+        "actuation_point": [
+          7.25,
+          25.0,
+          14.7
+        ],
+        "nominal_actuator_gap_mm": 0.03,
+        "hard_stop_reference": [
+          10.8,
+          25.0,
+          14.7
+        ],
+        "hard_stop_reference_z": 14.117134750379003
+      }
+    ],
+    "printed_interfaces": [],
+    "installation": [
+      {
+        "step": 1,
+        "parts": [
+          "BODY"
+        ],
+        "action": "Inspect five pads and raised supports; no removable bottom plate is required."
+      },
+      {
+        "step": 2,
+        "parts": [
+          "SIDE_FRONT_KEY",
+          "SIDE_REAR_KEY"
+        ],
+        "action": "Insert sliding keys from left exterior. Insert 1.5 mm capture pins downward through their tongues from open shell interior."
+      },
+      {
+        "step": 3,
+        "parts": [
+          "SWITCH_SIDE_FRONT",
+          "SWITCH_SIDE_REAR",
+          "SWITCH_LEFT",
+          "SWITCH_RIGHT"
+        ],
+        "action": "Place switches into local suspended sockets from open top; install measured retention straps/adaptors and set preload before fitting main keys."
+      },
+      {
+        "step": 4,
+        "parts": [
+          "WHEEL",
+          "WHEEL_CARRIER",
+          "ENCODER_EC10E_HOUSING",
+          "WHEEL_CARRIER_STEEL_PIN"
+        ],
+        "action": "Preassemble encoder and wheel on carrier outside body, insert hex shaft along X, place carrier between rear fixed ears and insert 2 mm hinge pin from the side access path."
+      },
+      {
+        "step": 5,
+        "parts": [
+          "LEFT_KEY",
+          "RIGHT_KEY"
+        ],
+        "action": "Align moving barrels between fixed bearing ears; slide each 2 mm steel hinge pin along X. Retain pin ends with removable clips or collars."
+      },
+      {
+        "step": 6,
+        "parts": [
+          "BODY"
+        ],
+        "action": "Fit measured electronic board/adaptors to four local M2 slots; keep sensor downward view unobstructed and set measured lens height. Electronics and adaptor are not included as verified donor parts."
+      },
+      {
+        "step": 7,
+        "parts": [
+          "BODY"
+        ],
+        "action": "Affix five PTFE pads after confirming coplanarity; calibrate key stops and test return motion before powering."
+      }
+    ],
+    "hardware_limitations": [
+      "Original Fenrir Pro PCB, sensor lens, battery and charging circuit have not been measured or verified.",
+      "Alps EC10E1220505 geometry and pin pattern use its public outline drawing, not formal supply specifications or a measured sample.",
+      "Integral PLA 1.67 mm AF encoder hex drive needs a torsion/fit coupon; a machined metal drive shaft is advised if long-term durability is required.",
+      "D2F envelopes have real seats and stops, but final electrical switch retention and preload require a measured switch and fastening strap/adaptor.",
+      "No universal claim of safe switch overtravel: supplied gaps/stops are geometric starting values; shim contact height to actual PT/OP before use."
+    ],
+    "wheel": {
+      "part": "WHEEL",
+      "axis_origin": [
+        0,
+        25.0,
+        17.5
+      ],
+      "axis": [
+        1,
+        0,
+        0
+      ],
+      "axle_diameter_mm": 2.0,
+      "bearing_hole_mm": 2.35,
+      "hex_af_mm": 1.67,
+      "encoder_hex_af_min_mm": 1.73,
+      "minimum_z_mm": 11.25,
+      "wheel_crown_z_mm": 23.75,
+      "encoder": {
+        "model": "Alps EC10E1220505",
+        "mount_height_mm": 7.0,
+        "body_width_mm": 9.8,
+        "body_thickness_mm": 4.4,
+        "above_axis_mm": 3.6,
+        "three_terminal_pitch_mm": 2.5,
+        "pcb_pin_hole_mm": 1.1,
+        "designed_clearance_hole_mm": 1.25,
+        "source": "https://tech.alpsalpine.com/cms.media/product_catalog_ec_03_ec10e_en_a9ede251c7.pdf"
+      },
+      "installation": "Fit encoder to carrier and insert wheel hex drive into rotor; flex-free approach from +X before carrier installation. Fit carrier between fixed rear ears and slide 2 mm hinge pin along X. Solder/wire encoder pins only after measuring actual component."
+    },
+    "generic_electronics_mounts": {
+      "ears": [
+        {
+          "center": [
+            -25.300357823818885,
+            43.0,
+            9.5
+          ],
+          "slot_width_mm": 2.4,
+          "slot_length_mm": 4.0
+        },
+        {
+          "center": [
+            25.300357823818885,
+            43.0,
+            9.5
+          ],
+          "slot_width_mm": 2.4,
+          "slot_length_mm": 4.0
+        },
+        {
+          "center": [
+            -25.270915633062913,
+            66.0,
+            9.5
+          ],
+          "slot_width_mm": 2.4,
+          "slot_length_mm": 4.0
+        },
+        {
+          "center": [
+            25.270915633062913,
+            66.0,
+            9.5
+          ],
+          "slot_width_mm": 2.4,
+          "slot_length_mm": 4.0
+        }
+      ],
+      "status": "Four generic local slotted M2 attachment ears; board adaptor, sensor carrier, battery retention and charging PCB remain donor-specific and require measurement. No bottom plate supplied."
+    },
+    "hardware_reference": {
+      "switch": "Omron D2F pin-plunger envelope, conservative 12.8 x 5.8 x 6.5 mm",
+      "source": "https://components.omron.com/sites/default/files/datasheet_pdf/B036-E1.pdf",
+      "pretravel_max_mm": 0.5,
+      "overtravel_min_mm": 0.25,
+      "important": "The shell uses generic envelope positioning. Exact free position, operating point, terminals, PCB holes and retention must be calibrated to the purchased switch. Do not infer Fenrir PCB compatibility."
+    },
+    "open_bottom": "Only five foot disks and their own stems below Z=5 mm. All other load routes are raised; no continuous bottom skin, perimeter floor ring or grid is added."
+  },
+  "windows": [
+    {
+      "name": "ROOT_TRI_L",
+      "xy": [
+        [
+          -4.2,
+          39.8
+        ],
+        [
+          -22.7,
+          39.8
+        ],
+        [
+          -4.2,
+          53.8
+        ]
+      ],
+      "removed_volume_mm3": 346.1149947502636,
+      "lower_cut_z": 10.5
+    },
+    {
+      "name": "ROOT_TRI_R",
+      "xy": [
+        [
+          4.2,
+          39.8
+        ],
+        [
+          22.7,
+          39.8
+        ],
+        [
+          4.2,
+          53.8
+        ]
+      ],
+      "removed_volume_mm3": 327.34768500072823,
+      "lower_cut_z": 10.5
+    },
+    {
+      "name": "SHOULDER_TRI_L",
+      "xy": [
+        [
+          -25.8,
+          42.0
+        ],
+        [
+          -6.8,
+          56.2
+        ],
+        [
+          -26.4,
+          60.8
+        ]
+      ],
+      "removed_volume_mm3": 547.5367750967744,
+      "lower_cut_z": 10.5
+    },
+    {
+      "name": "SHOULDER_TRI_R",
+      "xy": [
+        [
+          25.8,
+          42.0
+        ],
+        [
+          6.8,
+          56.2
+        ],
+        [
+          26.4,
+          60.8
+        ]
+      ],
+      "removed_volume_mm3": 545.5366511390148,
+      "lower_cut_z": 10.5
+    },
+    {
+      "name": "REAR_TRAP_L",
+      "xy": [
+        [
+          -3.1,
+          59.2
+        ],
+        [
+          -25.7,
+          65.5
+        ],
+        [
+          -18.8,
+          74.6
+        ],
+        [
+          -3.1,
+          74.6
+        ]
+      ],
+      "removed_volume_mm3": 879.7081474573615,
+      "lower_cut_z": 10.5
+    },
+    {
+      "name": "REAR_TRAP_R",
+      "xy": [
+        [
+          3.1,
+          59.2
+        ],
+        [
+          25.7,
+          65.5
+        ],
+        [
+          18.8,
+          74.6
+        ],
+        [
+          3.1,
+          74.6
+        ]
+      ],
+      "removed_volume_mm3": 808.967665285144,
+      "lower_cut_z": 10.5
+    }
+  ],
+  "interfaces": {
+    "usb": {
+      "connector": "GCT USB4105 dimensional envelope; not a complete charger",
+      "source": "https://gct.co/files/drawings/usb4105.pdf",
+      "connector_width_depth_height_mm": [
+        8.94,
+        7.35,
+        3.31
+      ],
+      "port_opening_width_height_mm": [
+        10.2,
+        4.6
+      ],
+      "face_y_mm": 12.5,
+      "axis_z_mm": 10.655,
+      "adapter_pcb_width_depth_thickness_mm": [
+        16,
+        10,
+        1
+      ],
+      "adapter_holes_mm": [
+        [
+          -6.2,
+          19.5
+        ],
+        [
+          6.2,
+          19.5
+        ]
+      ],
+      "mount": "Two M2 screws into 1.7mm pilots in raised posts. PCB outline/hole pattern is a proposed custom adapter, not a catalog board.",
+      "plug_body_gauge_mm": [
+        14,
+        20,
+        8
+      ],
+      "electrical_status": "Mechanical reservation only. No charging circuit, battery or firmware has been designed or verified."
+    },
+    "sensor": {
+      "reserved_center": [
+        0,
+        54.0,
+        9.7
+      ],
+      "reserved_size_mm": [
+        18.0,
+        18.0,
+        9.0
+      ],
+      "downward_optical_path_mm": [
+        14.0,
+        18.0
+      ],
+      "mount_slots": [
+        [
+          -12.5,
+          43.0,
+          12.8
+        ],
+        [
+          12.5,
+          43.0,
+          12.8
+        ],
+        [
+          -12.5,
+          65.0,
+          12.8
+        ],
+        [
+          12.5,
+          65.0,
+          12.8
+        ]
+      ],
+      "slot_width_mm": 2.4,
+      "status": "Generic sensor reservation and adjustable M2 adapter tabs, not measured Fenrir sensor/PCB holes. Actual lens working distance and board adapter must be measured.",
+      "load_route": "Four local tabs into raised side attachments; no lower sensor plate or ring."
+    }
+  },
+  "elapsed_s": 43.83746790885925,
+  "provenance": "Independent reconstruction from public official dimensions/multiview. No manufacturer CAD or restricted scan incorporated.",
+  "key_priority": "MiniSE-like separate solid keys, central gutter and large triangulated/trapezoidal exoskeleton; independent host dimensions."
+}
